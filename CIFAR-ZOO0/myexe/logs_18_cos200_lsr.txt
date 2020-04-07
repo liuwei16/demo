@@ -1,0 +1,1403 @@
+2020-04-05 20:49:52,998 - b.py - INFO - =======  Training  =======
+
+2020-04-05 20:49:52,999 - b.py - INFO -  === Epoch: [1/200] === 
+2020-04-05 20:49:57,598 - b.py - INFO -    == step: [100/391], train loss: 2.815 | train acc: 20.688% | lr: 0.100000
+2020-04-05 20:49:59,793 - b.py - INFO -    == step: [200/391], train loss: 2.423 | train acc: 26.035% | lr: 0.100000
+2020-04-05 20:50:02,027 - b.py - INFO -    == step: [300/391], train loss: 2.248 | train acc: 29.784% | lr: 0.100000
+2020-04-05 20:50:04,116 - b.py - INFO -    == step: [391/391], train loss: 2.156 | train acc: 31.860% | lr: 0.100000
+2020-04-05 20:50:04,116 - b.py - INFO -    == cost time: 11.1177s
+2020-04-05 20:50:04,117 - b.py - INFO -  === Epoch: [2/200] === 
+2020-04-05 20:50:07,060 - b.py - INFO -    == step: [100/391], train loss: 1.801 | train acc: 41.008% | lr: 0.099994
+2020-04-05 20:50:09,263 - b.py - INFO -    == step: [200/391], train loss: 1.757 | train acc: 43.105% | lr: 0.099994
+2020-04-05 20:50:11,477 - b.py - INFO -    == step: [300/391], train loss: 1.731 | train acc: 44.500% | lr: 0.099994
+2020-04-05 20:50:13,588 - b.py - INFO -    == step: [391/391], train loss: 1.706 | train acc: 45.650% | lr: 0.099994
+2020-04-05 20:50:13,588 - b.py - INFO -    == cost time: 9.4720s
+2020-04-05 20:50:13,589 - b.py - INFO -  === Validate ===
+2020-04-05 20:50:14,821 - b.py - INFO -    == test loss: 1.585 | test acc: 52.230%
+2020-04-05 20:50:16,080 - b.py - INFO -  === Epoch: [3/200] === 
+2020-04-05 20:50:19,059 - b.py - INFO -    == step: [100/391], train loss: 1.600 | train acc: 50.555% | lr: 0.099975
+2020-04-05 20:50:21,342 - b.py - INFO -    == step: [200/391], train loss: 1.578 | train acc: 51.648% | lr: 0.099975
+2020-04-05 20:50:23,552 - b.py - INFO -    == step: [300/391], train loss: 1.565 | train acc: 52.349% | lr: 0.099975
+2020-04-05 20:50:25,650 - b.py - INFO -    == step: [391/391], train loss: 1.555 | train acc: 52.982% | lr: 0.099975
+2020-04-05 20:50:25,651 - b.py - INFO -    == cost time: 9.5713s
+2020-04-05 20:50:25,651 - b.py - INFO -  === Epoch: [4/200] === 
+2020-04-05 20:50:28,642 - b.py - INFO -    == step: [100/391], train loss: 1.481 | train acc: 56.844% | lr: 0.099944
+2020-04-05 20:50:30,888 - b.py - INFO -    == step: [200/391], train loss: 1.456 | train acc: 58.000% | lr: 0.099944
+2020-04-05 20:50:33,084 - b.py - INFO -    == step: [300/391], train loss: 1.448 | train acc: 58.367% | lr: 0.099944
+2020-04-05 20:50:35,248 - b.py - INFO -    == step: [391/391], train loss: 1.437 | train acc: 58.930% | lr: 0.099944
+2020-04-05 20:50:35,249 - b.py - INFO -    == cost time: 9.5974s
+2020-04-05 20:50:35,249 - b.py - INFO -  === Validate ===
+2020-04-05 20:50:36,473 - b.py - INFO -    == test loss: 1.566 | test acc: 59.050%
+2020-04-05 20:50:37,776 - b.py - INFO -  === Epoch: [5/200] === 
+2020-04-05 20:50:40,752 - b.py - INFO -    == step: [100/391], train loss: 1.409 | train acc: 60.086% | lr: 0.099901
+2020-04-05 20:50:42,961 - b.py - INFO -    == step: [200/391], train loss: 1.388 | train acc: 61.070% | lr: 0.099901
+2020-04-05 20:50:45,166 - b.py - INFO -    == step: [300/391], train loss: 1.371 | train acc: 61.893% | lr: 0.099901
+2020-04-05 20:50:47,338 - b.py - INFO -    == step: [391/391], train loss: 1.359 | train acc: 62.472% | lr: 0.099901
+2020-04-05 20:50:47,338 - b.py - INFO -    == cost time: 9.5626s
+2020-04-05 20:50:47,339 - b.py - INFO -  === Epoch: [6/200] === 
+2020-04-05 20:50:50,275 - b.py - INFO -    == step: [100/391], train loss: 1.305 | train acc: 65.352% | lr: 0.099846
+2020-04-05 20:50:52,505 - b.py - INFO -    == step: [200/391], train loss: 1.303 | train acc: 65.316% | lr: 0.099846
+2020-04-05 20:50:54,720 - b.py - INFO -    == step: [300/391], train loss: 1.297 | train acc: 65.625% | lr: 0.099846
+2020-04-05 20:50:56,840 - b.py - INFO -    == step: [391/391], train loss: 1.294 | train acc: 65.708% | lr: 0.099846
+2020-04-05 20:50:56,840 - b.py - INFO -    == cost time: 9.5022s
+2020-04-05 20:50:56,841 - b.py - INFO -  === Validate ===
+2020-04-05 20:50:58,044 - b.py - INFO -    == test loss: 1.254 | test acc: 67.700%
+2020-04-05 20:50:59,338 - b.py - INFO -  === Epoch: [7/200] === 
+2020-04-05 20:51:02,321 - b.py - INFO -    == step: [100/391], train loss: 1.245 | train acc: 68.336% | lr: 0.099778
+2020-04-05 20:51:04,512 - b.py - INFO -    == step: [200/391], train loss: 1.240 | train acc: 68.531% | lr: 0.099778
+2020-04-05 20:51:06,716 - b.py - INFO -    == step: [300/391], train loss: 1.243 | train acc: 68.352% | lr: 0.099778
+2020-04-05 20:51:08,811 - b.py - INFO -    == step: [391/391], train loss: 1.242 | train acc: 68.336% | lr: 0.099778
+2020-04-05 20:51:08,811 - b.py - INFO -    == cost time: 9.4737s
+2020-04-05 20:51:08,812 - b.py - INFO -  === Epoch: [8/200] === 
+2020-04-05 20:51:11,757 - b.py - INFO -    == step: [100/391], train loss: 1.219 | train acc: 69.242% | lr: 0.099698
+2020-04-05 20:51:13,966 - b.py - INFO -    == step: [200/391], train loss: 1.219 | train acc: 69.250% | lr: 0.099698
+2020-04-05 20:51:16,194 - b.py - INFO -    == step: [300/391], train loss: 1.216 | train acc: 69.409% | lr: 0.099698
+2020-04-05 20:51:18,306 - b.py - INFO -    == step: [391/391], train loss: 1.210 | train acc: 69.718% | lr: 0.099698
+2020-04-05 20:51:18,306 - b.py - INFO -    == cost time: 9.4948s
+2020-04-05 20:51:18,307 - b.py - INFO -  === Validate ===
+2020-04-05 20:51:19,633 - b.py - INFO -    == test loss: 1.268 | test acc: 68.120%
+2020-04-05 20:51:20,934 - b.py - INFO -  === Epoch: [9/200] === 
+2020-04-05 20:51:23,908 - b.py - INFO -    == step: [100/391], train loss: 1.169 | train acc: 71.711% | lr: 0.099606
+2020-04-05 20:51:26,119 - b.py - INFO -    == step: [200/391], train loss: 1.175 | train acc: 71.465% | lr: 0.099606
+2020-04-05 20:51:28,341 - b.py - INFO -    == step: [300/391], train loss: 1.174 | train acc: 71.594% | lr: 0.099606
+2020-04-05 20:51:30,532 - b.py - INFO -    == step: [391/391], train loss: 1.177 | train acc: 71.384% | lr: 0.099606
+2020-04-05 20:51:30,533 - b.py - INFO -    == cost time: 9.5992s
+2020-04-05 20:51:30,533 - b.py - INFO -  === Epoch: [10/200] === 
+2020-04-05 20:51:33,570 - b.py - INFO -    == step: [100/391], train loss: 1.136 | train acc: 72.852% | lr: 0.099501
+2020-04-05 20:51:35,790 - b.py - INFO -    == step: [200/391], train loss: 1.143 | train acc: 72.711% | lr: 0.099501
+2020-04-05 20:51:38,035 - b.py - INFO -    == step: [300/391], train loss: 1.141 | train acc: 73.049% | lr: 0.099501
+2020-04-05 20:51:40,165 - b.py - INFO -    == step: [391/391], train loss: 1.143 | train acc: 73.022% | lr: 0.099501
+2020-04-05 20:51:40,165 - b.py - INFO -    == cost time: 9.6324s
+2020-04-05 20:51:40,166 - b.py - INFO -  === Validate ===
+2020-04-05 20:51:41,428 - b.py - INFO -    == test loss: 1.152 | test acc: 73.070%
+2020-04-05 20:51:42,695 - b.py - INFO -  === Epoch: [11/200] === 
+2020-04-05 20:51:45,650 - b.py - INFO -    == step: [100/391], train loss: 1.124 | train acc: 74.039% | lr: 0.099384
+2020-04-05 20:51:47,870 - b.py - INFO -    == step: [200/391], train loss: 1.123 | train acc: 74.117% | lr: 0.099384
+2020-04-05 20:51:50,088 - b.py - INFO -    == step: [300/391], train loss: 1.126 | train acc: 73.867% | lr: 0.099384
+2020-04-05 20:51:52,209 - b.py - INFO -    == step: [391/391], train loss: 1.125 | train acc: 73.930% | lr: 0.099384
+2020-04-05 20:51:52,210 - b.py - INFO -    == cost time: 9.5146s
+2020-04-05 20:51:52,210 - b.py - INFO -  === Epoch: [12/200] === 
+2020-04-05 20:51:55,131 - b.py - INFO -    == step: [100/391], train loss: 1.111 | train acc: 74.586% | lr: 0.099255
+2020-04-05 20:51:57,321 - b.py - INFO -    == step: [200/391], train loss: 1.101 | train acc: 74.941% | lr: 0.099255
+2020-04-05 20:51:59,481 - b.py - INFO -    == step: [300/391], train loss: 1.103 | train acc: 74.815% | lr: 0.099255
+2020-04-05 20:52:01,673 - b.py - INFO -    == step: [391/391], train loss: 1.103 | train acc: 74.938% | lr: 0.099255
+2020-04-05 20:52:01,674 - b.py - INFO -    == cost time: 9.4639s
+2020-04-05 20:52:01,674 - b.py - INFO -  === Validate ===
+2020-04-05 20:52:02,913 - b.py - INFO -    == test loss: 1.105 | test acc: 75.080%
+2020-04-05 20:52:04,174 - b.py - INFO -  === Epoch: [13/200] === 
+2020-04-05 20:52:07,082 - b.py - INFO -    == step: [100/391], train loss: 1.073 | train acc: 76.492% | lr: 0.099114
+2020-04-05 20:52:09,254 - b.py - INFO -    == step: [200/391], train loss: 1.077 | train acc: 76.270% | lr: 0.099114
+2020-04-05 20:52:11,500 - b.py - INFO -    == step: [300/391], train loss: 1.079 | train acc: 76.208% | lr: 0.099114
+2020-04-05 20:52:13,678 - b.py - INFO -    == step: [391/391], train loss: 1.079 | train acc: 76.252% | lr: 0.099114
+2020-04-05 20:52:13,679 - b.py - INFO -    == cost time: 9.5053s
+2020-04-05 20:52:13,679 - b.py - INFO -  === Epoch: [14/200] === 
+2020-04-05 20:52:16,715 - b.py - INFO -    == step: [100/391], train loss: 1.067 | train acc: 76.609% | lr: 0.098961
+2020-04-05 20:52:18,936 - b.py - INFO -    == step: [200/391], train loss: 1.064 | train acc: 76.840% | lr: 0.098961
+2020-04-05 20:52:21,168 - b.py - INFO -    == step: [300/391], train loss: 1.068 | train acc: 76.680% | lr: 0.098961
+2020-04-05 20:52:23,313 - b.py - INFO -    == step: [391/391], train loss: 1.072 | train acc: 76.482% | lr: 0.098961
+2020-04-05 20:52:23,313 - b.py - INFO -    == cost time: 9.6345s
+2020-04-05 20:52:23,314 - b.py - INFO -  === Validate ===
+2020-04-05 20:52:24,600 - b.py - INFO -    == test loss: 1.119 | test acc: 74.300%
+2020-04-05 20:52:25,249 - b.py - INFO -  === Epoch: [15/200] === 
+2020-04-05 20:52:28,227 - b.py - INFO -    == step: [100/391], train loss: 1.061 | train acc: 76.766% | lr: 0.098796
+2020-04-05 20:52:30,441 - b.py - INFO -    == step: [200/391], train loss: 1.049 | train acc: 77.359% | lr: 0.098796
+2020-04-05 20:52:32,690 - b.py - INFO -    == step: [300/391], train loss: 1.053 | train acc: 77.247% | lr: 0.098796
+2020-04-05 20:52:34,819 - b.py - INFO -    == step: [391/391], train loss: 1.055 | train acc: 77.170% | lr: 0.098796
+2020-04-05 20:52:34,819 - b.py - INFO -    == cost time: 9.5710s
+2020-04-05 20:52:34,820 - b.py - INFO -  === Epoch: [16/200] === 
+2020-04-05 20:52:37,719 - b.py - INFO -    == step: [100/391], train loss: 1.035 | train acc: 78.281% | lr: 0.098618
+2020-04-05 20:52:39,954 - b.py - INFO -    == step: [200/391], train loss: 1.039 | train acc: 77.883% | lr: 0.098618
+2020-04-05 20:52:42,149 - b.py - INFO -    == step: [300/391], train loss: 1.044 | train acc: 77.690% | lr: 0.098618
+2020-04-05 20:52:44,223 - b.py - INFO -    == step: [391/391], train loss: 1.042 | train acc: 77.812% | lr: 0.098618
+2020-04-05 20:52:44,223 - b.py - INFO -    == cost time: 9.4038s
+2020-04-05 20:52:44,224 - b.py - INFO -  === Validate ===
+2020-04-05 20:52:45,436 - b.py - INFO -    == test loss: 1.076 | test acc: 76.610%
+2020-04-05 20:52:46,735 - b.py - INFO -  === Epoch: [17/200] === 
+2020-04-05 20:52:49,609 - b.py - INFO -    == step: [100/391], train loss: 1.020 | train acc: 78.531% | lr: 0.098429
+2020-04-05 20:52:51,798 - b.py - INFO -    == step: [200/391], train loss: 1.022 | train acc: 78.438% | lr: 0.098429
+2020-04-05 20:52:53,964 - b.py - INFO -    == step: [300/391], train loss: 1.027 | train acc: 78.339% | lr: 0.098429
+2020-04-05 20:52:56,112 - b.py - INFO -    == step: [391/391], train loss: 1.026 | train acc: 78.392% | lr: 0.098429
+2020-04-05 20:52:56,113 - b.py - INFO -    == cost time: 9.3787s
+2020-04-05 20:52:56,113 - b.py - INFO -  === Epoch: [18/200] === 
+2020-04-05 20:52:59,091 - b.py - INFO -    == step: [100/391], train loss: 1.016 | train acc: 78.812% | lr: 0.098228
+2020-04-05 20:53:01,302 - b.py - INFO -    == step: [200/391], train loss: 1.016 | train acc: 78.852% | lr: 0.098228
+2020-04-05 20:53:03,530 - b.py - INFO -    == step: [300/391], train loss: 1.016 | train acc: 78.935% | lr: 0.098228
+2020-04-05 20:53:05,631 - b.py - INFO -    == step: [391/391], train loss: 1.018 | train acc: 78.882% | lr: 0.098228
+2020-04-05 20:53:05,631 - b.py - INFO -    == cost time: 9.5183s
+2020-04-05 20:53:05,632 - b.py - INFO -  === Validate ===
+2020-04-05 20:53:06,848 - b.py - INFO -    == test loss: 1.083 | test acc: 76.430%
+2020-04-05 20:53:07,489 - b.py - INFO -  === Epoch: [19/200] === 
+2020-04-05 20:53:10,377 - b.py - INFO -    == step: [100/391], train loss: 0.999 | train acc: 79.992% | lr: 0.098015
+2020-04-05 20:53:12,577 - b.py - INFO -    == step: [200/391], train loss: 1.003 | train acc: 79.656% | lr: 0.098015
+2020-04-05 20:53:14,777 - b.py - INFO -    == step: [300/391], train loss: 1.002 | train acc: 79.646% | lr: 0.098015
+2020-04-05 20:53:16,917 - b.py - INFO -    == step: [391/391], train loss: 1.003 | train acc: 79.646% | lr: 0.098015
+2020-04-05 20:53:16,917 - b.py - INFO -    == cost time: 9.4284s
+2020-04-05 20:53:16,918 - b.py - INFO -  === Epoch: [20/200] === 
+2020-04-05 20:53:19,930 - b.py - INFO -    == step: [100/391], train loss: 0.989 | train acc: 80.180% | lr: 0.097790
+2020-04-05 20:53:22,134 - b.py - INFO -    == step: [200/391], train loss: 0.991 | train acc: 80.059% | lr: 0.097790
+2020-04-05 20:53:24,317 - b.py - INFO -    == step: [300/391], train loss: 1.001 | train acc: 79.654% | lr: 0.097790
+2020-04-05 20:53:26,433 - b.py - INFO -    == step: [391/391], train loss: 1.002 | train acc: 79.704% | lr: 0.097790
+2020-04-05 20:53:26,434 - b.py - INFO -    == cost time: 9.5166s
+2020-04-05 20:53:26,434 - b.py - INFO -  === Validate ===
+2020-04-05 20:53:27,674 - b.py - INFO -    == test loss: 1.044 | test acc: 77.370%
+2020-04-05 20:53:28,937 - b.py - INFO -  === Epoch: [21/200] === 
+2020-04-05 20:53:31,930 - b.py - INFO -    == step: [100/391], train loss: 0.976 | train acc: 80.898% | lr: 0.097553
+2020-04-05 20:53:34,191 - b.py - INFO -    == step: [200/391], train loss: 0.978 | train acc: 80.590% | lr: 0.097553
+2020-04-05 20:53:36,473 - b.py - INFO -    == step: [300/391], train loss: 0.980 | train acc: 80.503% | lr: 0.097553
+2020-04-05 20:53:38,584 - b.py - INFO -    == step: [391/391], train loss: 0.984 | train acc: 80.356% | lr: 0.097553
+2020-04-05 20:53:38,584 - b.py - INFO -    == cost time: 9.6480s
+2020-04-05 20:53:38,585 - b.py - INFO -  === Epoch: [22/200] === 
+2020-04-05 20:53:41,564 - b.py - INFO -    == step: [100/391], train loss: 0.977 | train acc: 80.812% | lr: 0.097304
+2020-04-05 20:53:43,789 - b.py - INFO -    == step: [200/391], train loss: 0.979 | train acc: 80.824% | lr: 0.097304
+2020-04-05 20:53:46,063 - b.py - INFO -    == step: [300/391], train loss: 0.983 | train acc: 80.615% | lr: 0.097304
+2020-04-05 20:53:48,217 - b.py - INFO -    == step: [391/391], train loss: 0.983 | train acc: 80.570% | lr: 0.097304
+2020-04-05 20:53:48,217 - b.py - INFO -    == cost time: 9.6327s
+2020-04-05 20:53:48,218 - b.py - INFO -  === Validate ===
+2020-04-05 20:53:49,467 - b.py - INFO -    == test loss: 1.026 | test acc: 78.330%
+2020-04-05 20:53:50,766 - b.py - INFO -  === Epoch: [23/200] === 
+2020-04-05 20:53:53,789 - b.py - INFO -    == step: [100/391], train loss: 0.963 | train acc: 81.547% | lr: 0.097044
+2020-04-05 20:53:56,049 - b.py - INFO -    == step: [200/391], train loss: 0.964 | train acc: 81.430% | lr: 0.097044
+2020-04-05 20:53:58,293 - b.py - INFO -    == step: [300/391], train loss: 0.970 | train acc: 80.966% | lr: 0.097044
+2020-04-05 20:54:00,456 - b.py - INFO -    == step: [391/391], train loss: 0.971 | train acc: 80.864% | lr: 0.097044
+2020-04-05 20:54:00,457 - b.py - INFO -    == cost time: 9.6910s
+2020-04-05 20:54:00,457 - b.py - INFO -  === Epoch: [24/200] === 
+2020-04-05 20:54:03,452 - b.py - INFO -    == step: [100/391], train loss: 0.948 | train acc: 82.016% | lr: 0.096772
+2020-04-05 20:54:05,638 - b.py - INFO -    == step: [200/391], train loss: 0.965 | train acc: 81.324% | lr: 0.096772
+2020-04-05 20:54:07,848 - b.py - INFO -    == step: [300/391], train loss: 0.967 | train acc: 81.219% | lr: 0.096772
+2020-04-05 20:54:10,006 - b.py - INFO -    == step: [391/391], train loss: 0.970 | train acc: 81.062% | lr: 0.096772
+2020-04-05 20:54:10,007 - b.py - INFO -    == cost time: 9.5498s
+2020-04-05 20:54:10,007 - b.py - INFO -  === Validate ===
+2020-04-05 20:54:11,253 - b.py - INFO -    == test loss: 1.037 | test acc: 77.950%
+2020-04-05 20:54:11,884 - b.py - INFO -  === Epoch: [25/200] === 
+2020-04-05 20:54:14,854 - b.py - INFO -    == step: [100/391], train loss: 0.950 | train acc: 82.156% | lr: 0.096489
+2020-04-05 20:54:17,046 - b.py - INFO -    == step: [200/391], train loss: 0.955 | train acc: 81.723% | lr: 0.096489
+2020-04-05 20:54:19,284 - b.py - INFO -    == step: [300/391], train loss: 0.958 | train acc: 81.508% | lr: 0.096489
+2020-04-05 20:54:21,425 - b.py - INFO -    == step: [391/391], train loss: 0.960 | train acc: 81.436% | lr: 0.096489
+2020-04-05 20:54:21,425 - b.py - INFO -    == cost time: 9.5418s
+2020-04-05 20:54:21,426 - b.py - INFO -  === Epoch: [26/200] === 
+2020-04-05 20:54:24,366 - b.py - INFO -    == step: [100/391], train loss: 0.946 | train acc: 82.266% | lr: 0.096194
+2020-04-05 20:54:26,635 - b.py - INFO -    == step: [200/391], train loss: 0.952 | train acc: 82.004% | lr: 0.096194
+2020-04-05 20:54:28,801 - b.py - INFO -    == step: [300/391], train loss: 0.954 | train acc: 81.875% | lr: 0.096194
+2020-04-05 20:54:30,929 - b.py - INFO -    == step: [391/391], train loss: 0.954 | train acc: 81.818% | lr: 0.096194
+2020-04-05 20:54:30,930 - b.py - INFO -    == cost time: 9.5042s
+2020-04-05 20:54:30,930 - b.py - INFO -  === Validate ===
+2020-04-05 20:54:32,115 - b.py - INFO -    == test loss: 1.027 | test acc: 78.620%
+2020-04-05 20:54:33,409 - b.py - INFO -  === Epoch: [27/200] === 
+2020-04-05 20:54:36,342 - b.py - INFO -    == step: [100/391], train loss: 0.942 | train acc: 82.430% | lr: 0.095888
+2020-04-05 20:54:38,541 - b.py - INFO -    == step: [200/391], train loss: 0.934 | train acc: 82.801% | lr: 0.095888
+2020-04-05 20:54:40,734 - b.py - INFO -    == step: [300/391], train loss: 0.941 | train acc: 82.435% | lr: 0.095888
+2020-04-05 20:54:42,887 - b.py - INFO -    == step: [391/391], train loss: 0.942 | train acc: 82.386% | lr: 0.095888
+2020-04-05 20:54:42,888 - b.py - INFO -    == cost time: 9.4790s
+2020-04-05 20:54:42,889 - b.py - INFO -  === Epoch: [28/200] === 
+2020-04-05 20:54:45,796 - b.py - INFO -    == step: [100/391], train loss: 0.932 | train acc: 82.836% | lr: 0.095570
+2020-04-05 20:54:47,975 - b.py - INFO -    == step: [200/391], train loss: 0.935 | train acc: 82.754% | lr: 0.095570
+2020-04-05 20:54:50,153 - b.py - INFO -    == step: [300/391], train loss: 0.939 | train acc: 82.628% | lr: 0.095570
+2020-04-05 20:54:52,259 - b.py - INFO -    == step: [391/391], train loss: 0.940 | train acc: 82.538% | lr: 0.095570
+2020-04-05 20:54:52,259 - b.py - INFO -    == cost time: 9.3709s
+2020-04-05 20:54:52,260 - b.py - INFO -  === Validate ===
+2020-04-05 20:54:53,448 - b.py - INFO -    == test loss: 1.002 | test acc: 79.830%
+2020-04-05 20:54:54,793 - b.py - INFO -  === Epoch: [29/200] === 
+2020-04-05 20:54:57,759 - b.py - INFO -    == step: [100/391], train loss: 0.915 | train acc: 83.492% | lr: 0.095241
+2020-04-05 20:54:59,911 - b.py - INFO -    == step: [200/391], train loss: 0.928 | train acc: 82.926% | lr: 0.095241
+2020-04-05 20:55:02,115 - b.py - INFO -    == step: [300/391], train loss: 0.929 | train acc: 82.844% | lr: 0.095241
+2020-04-05 20:55:04,212 - b.py - INFO -    == step: [391/391], train loss: 0.930 | train acc: 82.912% | lr: 0.095241
+2020-04-05 20:55:04,213 - b.py - INFO -    == cost time: 9.4198s
+2020-04-05 20:55:04,213 - b.py - INFO -  === Epoch: [30/200] === 
+2020-04-05 20:55:07,168 - b.py - INFO -    == step: [100/391], train loss: 0.916 | train acc: 83.398% | lr: 0.094901
+2020-04-05 20:55:09,384 - b.py - INFO -    == step: [200/391], train loss: 0.923 | train acc: 83.086% | lr: 0.094901
+2020-04-05 20:55:11,611 - b.py - INFO -    == step: [300/391], train loss: 0.928 | train acc: 82.924% | lr: 0.094901
+2020-04-05 20:55:13,722 - b.py - INFO -    == step: [391/391], train loss: 0.930 | train acc: 82.818% | lr: 0.094901
+2020-04-05 20:55:13,723 - b.py - INFO -    == cost time: 9.5100s
+2020-04-05 20:55:13,723 - b.py - INFO -  === Validate ===
+2020-04-05 20:55:14,985 - b.py - INFO -    == test loss: 0.988 | test acc: 80.470%
+2020-04-05 20:55:16,280 - b.py - INFO -  === Epoch: [31/200] === 
+2020-04-05 20:55:19,315 - b.py - INFO -    == step: [100/391], train loss: 0.917 | train acc: 83.414% | lr: 0.094550
+2020-04-05 20:55:21,514 - b.py - INFO -    == step: [200/391], train loss: 0.916 | train acc: 83.590% | lr: 0.094550
+2020-04-05 20:55:23,718 - b.py - INFO -    == step: [300/391], train loss: 0.917 | train acc: 83.521% | lr: 0.094550
+2020-04-05 20:55:25,842 - b.py - INFO -    == step: [391/391], train loss: 0.921 | train acc: 83.238% | lr: 0.094550
+2020-04-05 20:55:25,842 - b.py - INFO -    == cost time: 9.5627s
+2020-04-05 20:55:25,843 - b.py - INFO -  === Epoch: [32/200] === 
+2020-04-05 20:55:28,848 - b.py - INFO -    == step: [100/391], train loss: 0.912 | train acc: 83.719% | lr: 0.094188
+2020-04-05 20:55:31,110 - b.py - INFO -    == step: [200/391], train loss: 0.912 | train acc: 83.922% | lr: 0.094188
+2020-04-05 20:55:33,359 - b.py - INFO -    == step: [300/391], train loss: 0.914 | train acc: 83.766% | lr: 0.094188
+2020-04-05 20:55:35,571 - b.py - INFO -    == step: [391/391], train loss: 0.918 | train acc: 83.558% | lr: 0.094188
+2020-04-05 20:55:35,572 - b.py - INFO -    == cost time: 9.7295s
+2020-04-05 20:55:35,573 - b.py - INFO -  === Validate ===
+2020-04-05 20:55:36,965 - b.py - INFO -    == test loss: 0.995 | test acc: 80.020%
+2020-04-05 20:55:37,617 - b.py - INFO -  === Epoch: [33/200] === 
+2020-04-05 20:55:40,645 - b.py - INFO -    == step: [100/391], train loss: 0.901 | train acc: 84.438% | lr: 0.093815
+2020-04-05 20:55:42,887 - b.py - INFO -    == step: [200/391], train loss: 0.906 | train acc: 84.020% | lr: 0.093815
+2020-04-05 20:55:45,282 - b.py - INFO -    == step: [300/391], train loss: 0.909 | train acc: 83.919% | lr: 0.093815
+2020-04-05 20:55:47,473 - b.py - INFO -    == step: [391/391], train loss: 0.911 | train acc: 83.732% | lr: 0.093815
+2020-04-05 20:55:47,474 - b.py - INFO -    == cost time: 9.8568s
+2020-04-05 20:55:47,474 - b.py - INFO -  === Epoch: [34/200] === 
+2020-04-05 20:55:50,440 - b.py - INFO -    == step: [100/391], train loss: 0.892 | train acc: 84.633% | lr: 0.093432
+2020-04-05 20:55:52,728 - b.py - INFO -    == step: [200/391], train loss: 0.902 | train acc: 84.168% | lr: 0.093432
+2020-04-05 20:55:55,002 - b.py - INFO -    == step: [300/391], train loss: 0.909 | train acc: 83.862% | lr: 0.093432
+2020-04-05 20:55:57,182 - b.py - INFO -    == step: [391/391], train loss: 0.909 | train acc: 83.868% | lr: 0.093432
+2020-04-05 20:55:57,182 - b.py - INFO -    == cost time: 9.7085s
+2020-04-05 20:55:57,183 - b.py - INFO -  === Validate ===
+2020-04-05 20:55:58,514 - b.py - INFO -    == test loss: 0.997 | test acc: 80.190%
+2020-04-05 20:55:59,179 - b.py - INFO -  === Epoch: [35/200] === 
+2020-04-05 20:56:02,167 - b.py - INFO -    == step: [100/391], train loss: 0.897 | train acc: 84.430% | lr: 0.093037
+2020-04-05 20:56:04,419 - b.py - INFO -    == step: [200/391], train loss: 0.905 | train acc: 83.949% | lr: 0.093037
+2020-04-05 20:56:06,671 - b.py - INFO -    == step: [300/391], train loss: 0.903 | train acc: 84.154% | lr: 0.093037
+2020-04-05 20:56:08,847 - b.py - INFO -    == step: [391/391], train loss: 0.903 | train acc: 84.126% | lr: 0.093037
+2020-04-05 20:56:08,848 - b.py - INFO -    == cost time: 9.6688s
+2020-04-05 20:56:08,848 - b.py - INFO -  === Epoch: [36/200] === 
+2020-04-05 20:56:11,767 - b.py - INFO -    == step: [100/391], train loss: 0.893 | train acc: 84.625% | lr: 0.092632
+2020-04-05 20:56:14,000 - b.py - INFO -    == step: [200/391], train loss: 0.894 | train acc: 84.453% | lr: 0.092632
+2020-04-05 20:56:16,253 - b.py - INFO -    == step: [300/391], train loss: 0.897 | train acc: 84.341% | lr: 0.092632
+2020-04-05 20:56:18,417 - b.py - INFO -    == step: [391/391], train loss: 0.901 | train acc: 84.118% | lr: 0.092632
+2020-04-05 20:56:18,418 - b.py - INFO -    == cost time: 9.5698s
+2020-04-05 20:56:18,419 - b.py - INFO -  === Validate ===
+2020-04-05 20:56:19,661 - b.py - INFO -    == test loss: 1.002 | test acc: 79.700%
+2020-04-05 20:56:20,309 - b.py - INFO -  === Epoch: [37/200] === 
+2020-04-05 20:56:23,405 - b.py - INFO -    == step: [100/391], train loss: 0.874 | train acc: 85.430% | lr: 0.092216
+2020-04-05 20:56:25,884 - b.py - INFO -    == step: [200/391], train loss: 0.879 | train acc: 85.109% | lr: 0.092216
+2020-04-05 20:56:28,142 - b.py - INFO -    == step: [300/391], train loss: 0.887 | train acc: 84.682% | lr: 0.092216
+2020-04-05 20:56:30,291 - b.py - INFO -    == step: [391/391], train loss: 0.889 | train acc: 84.706% | lr: 0.092216
+2020-04-05 20:56:30,292 - b.py - INFO -    == cost time: 9.9833s
+2020-04-05 20:56:30,293 - b.py - INFO -  === Epoch: [38/200] === 
+2020-04-05 20:56:33,245 - b.py - INFO -    == step: [100/391], train loss: 0.888 | train acc: 84.844% | lr: 0.091790
+2020-04-05 20:56:35,486 - b.py - INFO -    == step: [200/391], train loss: 0.892 | train acc: 84.539% | lr: 0.091790
+2020-04-05 20:56:38,008 - b.py - INFO -    == step: [300/391], train loss: 0.897 | train acc: 84.326% | lr: 0.091790
+2020-04-05 20:56:40,185 - b.py - INFO -    == step: [391/391], train loss: 0.896 | train acc: 84.366% | lr: 0.091790
+2020-04-05 20:56:40,186 - b.py - INFO -    == cost time: 9.8933s
+2020-04-05 20:56:40,186 - b.py - INFO -  === Validate ===
+2020-04-05 20:56:41,472 - b.py - INFO -    == test loss: 1.017 | test acc: 79.720%
+2020-04-05 20:56:42,104 - b.py - INFO -  === Epoch: [39/200] === 
+2020-04-05 20:56:45,169 - b.py - INFO -    == step: [100/391], train loss: 0.888 | train acc: 84.539% | lr: 0.091354
+2020-04-05 20:56:47,397 - b.py - INFO -    == step: [200/391], train loss: 0.888 | train acc: 84.523% | lr: 0.091354
+2020-04-05 20:56:49,665 - b.py - INFO -    == step: [300/391], train loss: 0.888 | train acc: 84.617% | lr: 0.091354
+2020-04-05 20:56:51,794 - b.py - INFO -    == step: [391/391], train loss: 0.890 | train acc: 84.532% | lr: 0.091354
+2020-04-05 20:56:51,795 - b.py - INFO -    == cost time: 9.6907s
+2020-04-05 20:56:51,795 - b.py - INFO -  === Epoch: [40/200] === 
+2020-04-05 20:56:54,747 - b.py - INFO -    == step: [100/391], train loss: 0.885 | train acc: 84.961% | lr: 0.090907
+2020-04-05 20:56:56,942 - b.py - INFO -    == step: [200/391], train loss: 0.886 | train acc: 84.809% | lr: 0.090907
+2020-04-05 20:56:59,160 - b.py - INFO -    == step: [300/391], train loss: 0.887 | train acc: 84.820% | lr: 0.090907
+2020-04-05 20:57:01,268 - b.py - INFO -    == step: [391/391], train loss: 0.889 | train acc: 84.706% | lr: 0.090907
+2020-04-05 20:57:01,269 - b.py - INFO -    == cost time: 9.4739s
+2020-04-05 20:57:01,270 - b.py - INFO -  === Validate ===
+2020-04-05 20:57:02,545 - b.py - INFO -    == test loss: 1.004 | test acc: 79.960%
+2020-04-05 20:57:03,193 - b.py - INFO -  === Epoch: [41/200] === 
+2020-04-05 20:57:06,220 - b.py - INFO -    == step: [100/391], train loss: 0.862 | train acc: 85.867% | lr: 0.090451
+2020-04-05 20:57:08,452 - b.py - INFO -    == step: [200/391], train loss: 0.869 | train acc: 85.508% | lr: 0.090451
+2020-04-05 20:57:10,684 - b.py - INFO -    == step: [300/391], train loss: 0.878 | train acc: 85.076% | lr: 0.090451
+2020-04-05 20:57:12,841 - b.py - INFO -    == step: [391/391], train loss: 0.880 | train acc: 85.026% | lr: 0.090451
+2020-04-05 20:57:12,842 - b.py - INFO -    == cost time: 9.6497s
+2020-04-05 20:57:12,843 - b.py - INFO -  === Epoch: [42/200] === 
+2020-04-05 20:57:15,829 - b.py - INFO -    == step: [100/391], train loss: 0.876 | train acc: 85.609% | lr: 0.089984
+2020-04-05 20:57:18,125 - b.py - INFO -    == step: [200/391], train loss: 0.880 | train acc: 85.277% | lr: 0.089984
+2020-04-05 20:57:20,407 - b.py - INFO -    == step: [300/391], train loss: 0.877 | train acc: 85.385% | lr: 0.089984
+2020-04-05 20:57:22,566 - b.py - INFO -    == step: [391/391], train loss: 0.881 | train acc: 85.214% | lr: 0.089984
+2020-04-05 20:57:22,567 - b.py - INFO -    == cost time: 9.7245s
+2020-04-05 20:57:22,567 - b.py - INFO -  === Validate ===
+2020-04-05 20:57:23,821 - b.py - INFO -    == test loss: 0.991 | test acc: 80.850%
+2020-04-05 20:57:25,087 - b.py - INFO -  === Epoch: [43/200] === 
+2020-04-05 20:57:28,041 - b.py - INFO -    == step: [100/391], train loss: 0.864 | train acc: 85.922% | lr: 0.089508
+2020-04-05 20:57:30,320 - b.py - INFO -    == step: [200/391], train loss: 0.865 | train acc: 85.891% | lr: 0.089508
+2020-04-05 20:57:32,673 - b.py - INFO -    == step: [300/391], train loss: 0.870 | train acc: 85.674% | lr: 0.089508
+2020-04-05 20:57:34,828 - b.py - INFO -    == step: [391/391], train loss: 0.872 | train acc: 85.610% | lr: 0.089508
+2020-04-05 20:57:34,828 - b.py - INFO -    == cost time: 9.7416s
+2020-04-05 20:57:34,829 - b.py - INFO -  === Epoch: [44/200] === 
+2020-04-05 20:57:37,897 - b.py - INFO -    == step: [100/391], train loss: 0.859 | train acc: 85.883% | lr: 0.089022
+2020-04-05 20:57:40,168 - b.py - INFO -    == step: [200/391], train loss: 0.866 | train acc: 85.750% | lr: 0.089022
+2020-04-05 20:57:42,425 - b.py - INFO -    == step: [300/391], train loss: 0.867 | train acc: 85.680% | lr: 0.089022
+2020-04-05 20:57:44,623 - b.py - INFO -    == step: [391/391], train loss: 0.869 | train acc: 85.654% | lr: 0.089022
+2020-04-05 20:57:44,623 - b.py - INFO -    == cost time: 9.7943s
+2020-04-05 20:57:44,624 - b.py - INFO -  === Validate ===
+2020-04-05 20:57:45,901 - b.py - INFO -    == test loss: 0.961 | test acc: 81.480%
+2020-04-05 20:57:47,188 - b.py - INFO -  === Epoch: [45/200] === 
+2020-04-05 20:57:50,186 - b.py - INFO -    == step: [100/391], train loss: 0.860 | train acc: 86.062% | lr: 0.088526
+2020-04-05 20:57:52,470 - b.py - INFO -    == step: [200/391], train loss: 0.868 | train acc: 85.781% | lr: 0.088526
+2020-04-05 20:57:54,743 - b.py - INFO -    == step: [300/391], train loss: 0.865 | train acc: 85.880% | lr: 0.088526
+2020-04-05 20:57:56,950 - b.py - INFO -    == step: [391/391], train loss: 0.868 | train acc: 85.682% | lr: 0.088526
+2020-04-05 20:57:56,951 - b.py - INFO -    == cost time: 9.7638s
+2020-04-05 20:57:56,952 - b.py - INFO -  === Epoch: [46/200] === 
+2020-04-05 20:57:59,967 - b.py - INFO -    == step: [100/391], train loss: 0.852 | train acc: 86.422% | lr: 0.088020
+2020-04-05 20:58:02,249 - b.py - INFO -    == step: [200/391], train loss: 0.855 | train acc: 86.312% | lr: 0.088020
+2020-04-05 20:58:04,524 - b.py - INFO -    == step: [300/391], train loss: 0.859 | train acc: 86.216% | lr: 0.088020
+2020-04-05 20:58:06,693 - b.py - INFO -    == step: [391/391], train loss: 0.862 | train acc: 86.034% | lr: 0.088020
+2020-04-05 20:58:06,693 - b.py - INFO -    == cost time: 9.7419s
+2020-04-05 20:58:06,694 - b.py - INFO -  === Validate ===
+2020-04-05 20:58:07,964 - b.py - INFO -    == test loss: 0.990 | test acc: 80.470%
+2020-04-05 20:58:08,611 - b.py - INFO -  === Epoch: [47/200] === 
+2020-04-05 20:58:11,630 - b.py - INFO -    == step: [100/391], train loss: 0.854 | train acc: 86.133% | lr: 0.087506
+2020-04-05 20:58:13,898 - b.py - INFO -    == step: [200/391], train loss: 0.859 | train acc: 85.996% | lr: 0.087506
+2020-04-05 20:58:16,165 - b.py - INFO -    == step: [300/391], train loss: 0.860 | train acc: 85.917% | lr: 0.087506
+2020-04-05 20:58:18,380 - b.py - INFO -    == step: [391/391], train loss: 0.862 | train acc: 85.840% | lr: 0.087506
+2020-04-05 20:58:18,381 - b.py - INFO -    == cost time: 9.7707s
+2020-04-05 20:58:18,381 - b.py - INFO -  === Epoch: [48/200] === 
+2020-04-05 20:58:21,423 - b.py - INFO -    == step: [100/391], train loss: 0.846 | train acc: 86.508% | lr: 0.086982
+2020-04-05 20:58:23,700 - b.py - INFO -    == step: [200/391], train loss: 0.853 | train acc: 86.195% | lr: 0.086982
+2020-04-05 20:58:25,958 - b.py - INFO -    == step: [300/391], train loss: 0.858 | train acc: 85.964% | lr: 0.086982
+2020-04-05 20:58:28,079 - b.py - INFO -    == step: [391/391], train loss: 0.860 | train acc: 85.942% | lr: 0.086982
+2020-04-05 20:58:28,079 - b.py - INFO -    == cost time: 9.6981s
+2020-04-05 20:58:28,080 - b.py - INFO -  === Validate ===
+2020-04-05 20:58:29,375 - b.py - INFO -    == test loss: 0.975 | test acc: 81.330%
+2020-04-05 20:58:30,017 - b.py - INFO -  === Epoch: [49/200] === 
+2020-04-05 20:58:33,098 - b.py - INFO -    == step: [100/391], train loss: 0.847 | train acc: 86.523% | lr: 0.086448
+2020-04-05 20:58:35,330 - b.py - INFO -    == step: [200/391], train loss: 0.850 | train acc: 86.305% | lr: 0.086448
+2020-04-05 20:58:37,575 - b.py - INFO -    == step: [300/391], train loss: 0.854 | train acc: 86.109% | lr: 0.086448
+2020-04-05 20:58:39,678 - b.py - INFO -    == step: [391/391], train loss: 0.853 | train acc: 86.168% | lr: 0.086448
+2020-04-05 20:58:39,679 - b.py - INFO -    == cost time: 9.6627s
+2020-04-05 20:58:39,679 - b.py - INFO -  === Epoch: [50/200] === 
+2020-04-05 20:58:42,696 - b.py - INFO -    == step: [100/391], train loss: 0.844 | train acc: 86.664% | lr: 0.085906
+2020-04-05 20:58:44,954 - b.py - INFO -    == step: [200/391], train loss: 0.843 | train acc: 86.754% | lr: 0.085906
+2020-04-05 20:58:47,232 - b.py - INFO -    == step: [300/391], train loss: 0.846 | train acc: 86.669% | lr: 0.085906
+2020-04-05 20:58:49,351 - b.py - INFO -    == step: [391/391], train loss: 0.848 | train acc: 86.624% | lr: 0.085906
+2020-04-05 20:58:49,352 - b.py - INFO -    == cost time: 9.6726s
+2020-04-05 20:58:49,352 - b.py - INFO -  === Validate ===
+2020-04-05 20:58:50,642 - b.py - INFO -    == test loss: 0.991 | test acc: 80.920%
+2020-04-05 20:58:51,272 - b.py - INFO -  === Epoch: [51/200] === 
+2020-04-05 20:58:54,282 - b.py - INFO -    == step: [100/391], train loss: 0.827 | train acc: 87.086% | lr: 0.085355
+2020-04-05 20:58:56,538 - b.py - INFO -    == step: [200/391], train loss: 0.840 | train acc: 86.801% | lr: 0.085355
+2020-04-05 20:58:58,834 - b.py - INFO -    == step: [300/391], train loss: 0.843 | train acc: 86.724% | lr: 0.085355
+2020-04-05 20:59:01,039 - b.py - INFO -    == step: [391/391], train loss: 0.845 | train acc: 86.616% | lr: 0.085355
+2020-04-05 20:59:01,040 - b.py - INFO -    == cost time: 9.7685s
+2020-04-05 20:59:01,041 - b.py - INFO -  === Epoch: [52/200] === 
+2020-04-05 20:59:04,040 - b.py - INFO -    == step: [100/391], train loss: 0.836 | train acc: 87.023% | lr: 0.084796
+2020-04-05 20:59:06,283 - b.py - INFO -    == step: [200/391], train loss: 0.841 | train acc: 86.949% | lr: 0.084796
+2020-04-05 20:59:08,507 - b.py - INFO -    == step: [300/391], train loss: 0.843 | train acc: 86.833% | lr: 0.084796
+2020-04-05 20:59:10,665 - b.py - INFO -    == step: [391/391], train loss: 0.843 | train acc: 86.768% | lr: 0.084796
+2020-04-05 20:59:10,665 - b.py - INFO -    == cost time: 9.6249s
+2020-04-05 20:59:10,666 - b.py - INFO -  === Validate ===
+2020-04-05 20:59:11,959 - b.py - INFO -    == test loss: 0.950 | test acc: 82.480%
+2020-04-05 20:59:13,253 - b.py - INFO -  === Epoch: [53/200] === 
+2020-04-05 20:59:16,277 - b.py - INFO -    == step: [100/391], train loss: 0.824 | train acc: 87.867% | lr: 0.084227
+2020-04-05 20:59:18,539 - b.py - INFO -    == step: [200/391], train loss: 0.834 | train acc: 87.398% | lr: 0.084227
+2020-04-05 20:59:20,793 - b.py - INFO -    == step: [300/391], train loss: 0.836 | train acc: 87.086% | lr: 0.084227
+2020-04-05 20:59:22,980 - b.py - INFO -    == step: [391/391], train loss: 0.840 | train acc: 86.874% | lr: 0.084227
+2020-04-05 20:59:22,980 - b.py - INFO -    == cost time: 9.7277s
+2020-04-05 20:59:22,981 - b.py - INFO -  === Epoch: [54/200] === 
+2020-04-05 20:59:26,037 - b.py - INFO -    == step: [100/391], train loss: 0.830 | train acc: 87.586% | lr: 0.083651
+2020-04-05 20:59:28,345 - b.py - INFO -    == step: [200/391], train loss: 0.838 | train acc: 87.121% | lr: 0.083651
+2020-04-05 20:59:30,645 - b.py - INFO -    == step: [300/391], train loss: 0.840 | train acc: 86.984% | lr: 0.083651
+2020-04-05 20:59:32,845 - b.py - INFO -    == step: [391/391], train loss: 0.839 | train acc: 87.016% | lr: 0.083651
+2020-04-05 20:59:32,846 - b.py - INFO -    == cost time: 9.8655s
+2020-04-05 20:59:32,846 - b.py - INFO -  === Validate ===
+2020-04-05 20:59:34,099 - b.py - INFO -    == test loss: 0.980 | test acc: 81.470%
+2020-04-05 20:59:34,741 - b.py - INFO -  === Epoch: [55/200] === 
+2020-04-05 20:59:37,757 - b.py - INFO -    == step: [100/391], train loss: 0.837 | train acc: 86.891% | lr: 0.083066
+2020-04-05 20:59:40,006 - b.py - INFO -    == step: [200/391], train loss: 0.839 | train acc: 86.734% | lr: 0.083066
+2020-04-05 20:59:42,257 - b.py - INFO -    == step: [300/391], train loss: 0.840 | train acc: 86.831% | lr: 0.083066
+2020-04-05 20:59:44,440 - b.py - INFO -    == step: [391/391], train loss: 0.839 | train acc: 86.844% | lr: 0.083066
+2020-04-05 20:59:44,440 - b.py - INFO -    == cost time: 9.6999s
+2020-04-05 20:59:44,441 - b.py - INFO -  === Epoch: [56/200] === 
+2020-04-05 20:59:47,467 - b.py - INFO -    == step: [100/391], train loss: 0.825 | train acc: 87.648% | lr: 0.082472
+2020-04-05 20:59:49,729 - b.py - INFO -    == step: [200/391], train loss: 0.825 | train acc: 87.613% | lr: 0.082472
+2020-04-05 20:59:52,011 - b.py - INFO -    == step: [300/391], train loss: 0.828 | train acc: 87.414% | lr: 0.082472
+2020-04-05 20:59:54,162 - b.py - INFO -    == step: [391/391], train loss: 0.830 | train acc: 87.338% | lr: 0.082472
+2020-04-05 20:59:54,162 - b.py - INFO -    == cost time: 9.7216s
+2020-04-05 20:59:54,163 - b.py - INFO -  === Validate ===
+2020-04-05 20:59:55,437 - b.py - INFO -    == test loss: 0.984 | test acc: 81.430%
+2020-04-05 20:59:56,081 - b.py - INFO -  === Epoch: [57/200] === 
+2020-04-05 20:59:59,078 - b.py - INFO -    == step: [100/391], train loss: 0.815 | train acc: 88.047% | lr: 0.081871
+2020-04-05 21:00:01,363 - b.py - INFO -    == step: [200/391], train loss: 0.822 | train acc: 87.656% | lr: 0.081871
+2020-04-05 21:00:03,617 - b.py - INFO -    == step: [300/391], train loss: 0.827 | train acc: 87.487% | lr: 0.081871
+2020-04-05 21:00:05,837 - b.py - INFO -    == step: [391/391], train loss: 0.829 | train acc: 87.426% | lr: 0.081871
+2020-04-05 21:00:05,838 - b.py - INFO -    == cost time: 9.7571s
+2020-04-05 21:00:05,839 - b.py - INFO -  === Epoch: [58/200] === 
+2020-04-05 21:00:08,786 - b.py - INFO -    == step: [100/391], train loss: 0.815 | train acc: 87.891% | lr: 0.081262
+2020-04-05 21:00:11,051 - b.py - INFO -    == step: [200/391], train loss: 0.821 | train acc: 87.703% | lr: 0.081262
+2020-04-05 21:00:13,350 - b.py - INFO -    == step: [300/391], train loss: 0.822 | train acc: 87.771% | lr: 0.081262
+2020-04-05 21:00:15,564 - b.py - INFO -    == step: [391/391], train loss: 0.824 | train acc: 87.634% | lr: 0.081262
+2020-04-05 21:00:15,565 - b.py - INFO -    == cost time: 9.7263s
+2020-04-05 21:00:15,565 - b.py - INFO -  === Validate ===
+2020-04-05 21:00:16,880 - b.py - INFO -    == test loss: 0.955 | test acc: 81.980%
+2020-04-05 21:00:17,522 - b.py - INFO -  === Epoch: [59/200] === 
+2020-04-05 21:00:20,601 - b.py - INFO -    == step: [100/391], train loss: 0.814 | train acc: 88.273% | lr: 0.080645
+2020-04-05 21:00:22,910 - b.py - INFO -    == step: [200/391], train loss: 0.819 | train acc: 87.918% | lr: 0.080645
+2020-04-05 21:00:25,265 - b.py - INFO -    == step: [300/391], train loss: 0.823 | train acc: 87.760% | lr: 0.080645
+2020-04-05 21:00:27,485 - b.py - INFO -    == step: [391/391], train loss: 0.826 | train acc: 87.628% | lr: 0.080645
+2020-04-05 21:00:27,486 - b.py - INFO -    == cost time: 9.9644s
+2020-04-05 21:00:27,487 - b.py - INFO -  === Epoch: [60/200] === 
+2020-04-05 21:00:30,477 - b.py - INFO -    == step: [100/391], train loss: 0.818 | train acc: 87.953% | lr: 0.080021
+2020-04-05 21:00:32,733 - b.py - INFO -    == step: [200/391], train loss: 0.818 | train acc: 87.977% | lr: 0.080021
+2020-04-05 21:00:35,022 - b.py - INFO -    == step: [300/391], train loss: 0.822 | train acc: 87.880% | lr: 0.080021
+2020-04-05 21:00:37,186 - b.py - INFO -    == step: [391/391], train loss: 0.826 | train acc: 87.780% | lr: 0.080021
+2020-04-05 21:00:37,187 - b.py - INFO -    == cost time: 9.7011s
+2020-04-05 21:00:37,188 - b.py - INFO -  === Validate ===
+2020-04-05 21:00:38,474 - b.py - INFO -    == test loss: 0.932 | test acc: 82.980%
+2020-04-05 21:00:39,735 - b.py - INFO -  === Epoch: [61/200] === 
+2020-04-05 21:00:42,780 - b.py - INFO -    == step: [100/391], train loss: 0.816 | train acc: 88.000% | lr: 0.079389
+2020-04-05 21:00:45,009 - b.py - INFO -    == step: [200/391], train loss: 0.815 | train acc: 88.090% | lr: 0.079389
+2020-04-05 21:00:47,273 - b.py - INFO -    == step: [300/391], train loss: 0.820 | train acc: 87.828% | lr: 0.079389
+2020-04-05 21:00:49,497 - b.py - INFO -    == step: [391/391], train loss: 0.820 | train acc: 87.744% | lr: 0.079389
+2020-04-05 21:00:49,498 - b.py - INFO -    == cost time: 9.7630s
+2020-04-05 21:00:49,498 - b.py - INFO -  === Epoch: [62/200] === 
+2020-04-05 21:00:52,584 - b.py - INFO -    == step: [100/391], train loss: 0.816 | train acc: 87.750% | lr: 0.078750
+2020-04-05 21:00:54,857 - b.py - INFO -    == step: [200/391], train loss: 0.817 | train acc: 87.926% | lr: 0.078750
+2020-04-05 21:00:57,104 - b.py - INFO -    == step: [300/391], train loss: 0.818 | train acc: 87.971% | lr: 0.078750
+2020-04-05 21:00:59,328 - b.py - INFO -    == step: [391/391], train loss: 0.820 | train acc: 87.800% | lr: 0.078750
+2020-04-05 21:00:59,328 - b.py - INFO -    == cost time: 9.8302s
+2020-04-05 21:00:59,329 - b.py - INFO -  === Validate ===
+2020-04-05 21:01:00,649 - b.py - INFO -    == test loss: 0.942 | test acc: 82.620%
+2020-04-05 21:01:01,286 - b.py - INFO -  === Epoch: [63/200] === 
+2020-04-05 21:01:04,366 - b.py - INFO -    == step: [100/391], train loss: 0.799 | train acc: 88.516% | lr: 0.078104
+2020-04-05 21:01:06,630 - b.py - INFO -    == step: [200/391], train loss: 0.808 | train acc: 88.250% | lr: 0.078104
+2020-04-05 21:01:08,864 - b.py - INFO -    == step: [300/391], train loss: 0.812 | train acc: 88.151% | lr: 0.078104
+2020-04-05 21:01:11,022 - b.py - INFO -    == step: [391/391], train loss: 0.815 | train acc: 88.022% | lr: 0.078104
+2020-04-05 21:01:11,022 - b.py - INFO -    == cost time: 9.7368s
+2020-04-05 21:01:11,023 - b.py - INFO -  === Epoch: [64/200] === 
+2020-04-05 21:01:14,029 - b.py - INFO -    == step: [100/391], train loss: 0.803 | train acc: 88.773% | lr: 0.077451
+2020-04-05 21:01:16,322 - b.py - INFO -    == step: [200/391], train loss: 0.807 | train acc: 88.508% | lr: 0.077451
+2020-04-05 21:01:18,568 - b.py - INFO -    == step: [300/391], train loss: 0.812 | train acc: 88.326% | lr: 0.077451
+2020-04-05 21:01:20,761 - b.py - INFO -    == step: [391/391], train loss: 0.815 | train acc: 88.168% | lr: 0.077451
+2020-04-05 21:01:20,762 - b.py - INFO -    == cost time: 9.7390s
+2020-04-05 21:01:20,762 - b.py - INFO -  === Validate ===
+2020-04-05 21:01:22,111 - b.py - INFO -    == test loss: 0.957 | test acc: 82.240%
+2020-04-05 21:01:22,764 - b.py - INFO -  === Epoch: [65/200] === 
+2020-04-05 21:01:25,823 - b.py - INFO -    == step: [100/391], train loss: 0.803 | train acc: 88.391% | lr: 0.076791
+2020-04-05 21:01:28,081 - b.py - INFO -    == step: [200/391], train loss: 0.807 | train acc: 88.414% | lr: 0.076791
+2020-04-05 21:01:30,378 - b.py - INFO -    == step: [300/391], train loss: 0.809 | train acc: 88.333% | lr: 0.076791
+2020-04-05 21:01:32,550 - b.py - INFO -    == step: [391/391], train loss: 0.813 | train acc: 88.128% | lr: 0.076791
+2020-04-05 21:01:32,551 - b.py - INFO -    == cost time: 9.7874s
+2020-04-05 21:01:32,551 - b.py - INFO -  === Epoch: [66/200] === 
+2020-04-05 21:01:35,659 - b.py - INFO -    == step: [100/391], train loss: 0.806 | train acc: 88.234% | lr: 0.076125
+2020-04-05 21:01:37,947 - b.py - INFO -    == step: [200/391], train loss: 0.801 | train acc: 88.551% | lr: 0.076125
+2020-04-05 21:01:40,203 - b.py - INFO -    == step: [300/391], train loss: 0.803 | train acc: 88.487% | lr: 0.076125
+2020-04-05 21:01:42,383 - b.py - INFO -    == step: [391/391], train loss: 0.804 | train acc: 88.482% | lr: 0.076125
+2020-04-05 21:01:42,384 - b.py - INFO -    == cost time: 9.8329s
+2020-04-05 21:01:42,385 - b.py - INFO -  === Validate ===
+2020-04-05 21:01:43,674 - b.py - INFO -    == test loss: 0.930 | test acc: 83.560%
+2020-04-05 21:01:44,952 - b.py - INFO -  === Epoch: [67/200] === 
+2020-04-05 21:01:48,011 - b.py - INFO -    == step: [100/391], train loss: 0.802 | train acc: 88.273% | lr: 0.075452
+2020-04-05 21:01:50,261 - b.py - INFO -    == step: [200/391], train loss: 0.802 | train acc: 88.566% | lr: 0.075452
+2020-04-05 21:01:52,567 - b.py - INFO -    == step: [300/391], train loss: 0.801 | train acc: 88.667% | lr: 0.075452
+2020-04-05 21:01:54,766 - b.py - INFO -    == step: [391/391], train loss: 0.804 | train acc: 88.500% | lr: 0.075452
+2020-04-05 21:01:54,766 - b.py - INFO -    == cost time: 9.8145s
+2020-04-05 21:01:54,767 - b.py - INFO -  === Epoch: [68/200] === 
+2020-04-05 21:01:57,811 - b.py - INFO -    == step: [100/391], train loss: 0.785 | train acc: 89.344% | lr: 0.074773
+2020-04-05 21:02:00,089 - b.py - INFO -    == step: [200/391], train loss: 0.799 | train acc: 88.754% | lr: 0.074773
+2020-04-05 21:02:02,386 - b.py - INFO -    == step: [300/391], train loss: 0.799 | train acc: 88.753% | lr: 0.074773
+2020-04-05 21:02:04,582 - b.py - INFO -    == step: [391/391], train loss: 0.802 | train acc: 88.668% | lr: 0.074773
+2020-04-05 21:02:04,582 - b.py - INFO -    == cost time: 9.8157s
+2020-04-05 21:02:04,583 - b.py - INFO -  === Validate ===
+2020-04-05 21:02:05,871 - b.py - INFO -    == test loss: 0.954 | test acc: 82.480%
+2020-04-05 21:02:06,522 - b.py - INFO -  === Epoch: [69/200] === 
+2020-04-05 21:02:09,535 - b.py - INFO -    == step: [100/391], train loss: 0.787 | train acc: 89.211% | lr: 0.074088
+2020-04-05 21:02:11,850 - b.py - INFO -    == step: [200/391], train loss: 0.795 | train acc: 89.000% | lr: 0.074088
+2020-04-05 21:02:14,111 - b.py - INFO -    == step: [300/391], train loss: 0.799 | train acc: 88.815% | lr: 0.074088
+2020-04-05 21:02:16,308 - b.py - INFO -    == step: [391/391], train loss: 0.801 | train acc: 88.658% | lr: 0.074088
+2020-04-05 21:02:16,308 - b.py - INFO -    == cost time: 9.7872s
+2020-04-05 21:02:16,309 - b.py - INFO -  === Epoch: [70/200] === 
+2020-04-05 21:02:19,381 - b.py - INFO -    == step: [100/391], train loss: 0.789 | train acc: 89.375% | lr: 0.073396
+2020-04-05 21:02:21,674 - b.py - INFO -    == step: [200/391], train loss: 0.791 | train acc: 89.105% | lr: 0.073396
+2020-04-05 21:02:23,941 - b.py - INFO -    == step: [300/391], train loss: 0.792 | train acc: 89.122% | lr: 0.073396
+2020-04-05 21:02:26,126 - b.py - INFO -    == step: [391/391], train loss: 0.796 | train acc: 88.966% | lr: 0.073396
+2020-04-05 21:02:26,126 - b.py - INFO -    == cost time: 9.8177s
+2020-04-05 21:02:26,127 - b.py - INFO -  === Validate ===
+2020-04-05 21:02:27,396 - b.py - INFO -    == test loss: 0.937 | test acc: 83.080%
+2020-04-05 21:02:28,037 - b.py - INFO -  === Epoch: [71/200] === 
+2020-04-05 21:02:31,111 - b.py - INFO -    == step: [100/391], train loss: 0.788 | train acc: 89.219% | lr: 0.072700
+2020-04-05 21:02:33,374 - b.py - INFO -    == step: [200/391], train loss: 0.795 | train acc: 88.867% | lr: 0.072700
+2020-04-05 21:02:35,664 - b.py - INFO -    == step: [300/391], train loss: 0.799 | train acc: 88.727% | lr: 0.072700
+2020-04-05 21:02:37,865 - b.py - INFO -    == step: [391/391], train loss: 0.798 | train acc: 88.764% | lr: 0.072700
+2020-04-05 21:02:37,866 - b.py - INFO -    == cost time: 9.8296s
+2020-04-05 21:02:37,867 - b.py - INFO -  === Epoch: [72/200] === 
+2020-04-05 21:02:40,891 - b.py - INFO -    == step: [100/391], train loss: 0.793 | train acc: 89.031% | lr: 0.071997
+2020-04-05 21:02:43,166 - b.py - INFO -    == step: [200/391], train loss: 0.789 | train acc: 89.129% | lr: 0.071997
+2020-04-05 21:02:45,421 - b.py - INFO -    == step: [300/391], train loss: 0.790 | train acc: 89.029% | lr: 0.071997
+2020-04-05 21:02:47,597 - b.py - INFO -    == step: [391/391], train loss: 0.794 | train acc: 88.862% | lr: 0.071997
+2020-04-05 21:02:47,598 - b.py - INFO -    == cost time: 9.7315s
+2020-04-05 21:02:47,599 - b.py - INFO -  === Validate ===
+2020-04-05 21:02:48,839 - b.py - INFO -    == test loss: 0.964 | test acc: 82.430%
+2020-04-05 21:02:49,483 - b.py - INFO -  === Epoch: [73/200] === 
+2020-04-05 21:02:52,483 - b.py - INFO -    == step: [100/391], train loss: 0.773 | train acc: 89.867% | lr: 0.071289
+2020-04-05 21:02:54,782 - b.py - INFO -    == step: [200/391], train loss: 0.782 | train acc: 89.484% | lr: 0.071289
+2020-04-05 21:02:57,047 - b.py - INFO -    == step: [300/391], train loss: 0.785 | train acc: 89.263% | lr: 0.071289
+2020-04-05 21:02:59,221 - b.py - INFO -    == step: [391/391], train loss: 0.788 | train acc: 89.132% | lr: 0.071289
+2020-04-05 21:02:59,221 - b.py - INFO -    == cost time: 9.7388s
+2020-04-05 21:02:59,222 - b.py - INFO -  === Epoch: [74/200] === 
+2020-04-05 21:03:02,239 - b.py - INFO -    == step: [100/391], train loss: 0.782 | train acc: 89.359% | lr: 0.070576
+2020-04-05 21:03:04,541 - b.py - INFO -    == step: [200/391], train loss: 0.783 | train acc: 89.301% | lr: 0.070576
+2020-04-05 21:03:06,825 - b.py - INFO -    == step: [300/391], train loss: 0.785 | train acc: 89.279% | lr: 0.070576
+2020-04-05 21:03:08,999 - b.py - INFO -    == step: [391/391], train loss: 0.786 | train acc: 89.274% | lr: 0.070576
+2020-04-05 21:03:09,000 - b.py - INFO -    == cost time: 9.7781s
+2020-04-05 21:03:09,000 - b.py - INFO -  === Validate ===
+2020-04-05 21:03:10,286 - b.py - INFO -    == test loss: 0.948 | test acc: 82.900%
+2020-04-05 21:03:10,930 - b.py - INFO -  === Epoch: [75/200] === 
+2020-04-05 21:03:14,052 - b.py - INFO -    == step: [100/391], train loss: 0.777 | train acc: 89.758% | lr: 0.069857
+2020-04-05 21:03:16,323 - b.py - INFO -    == step: [200/391], train loss: 0.780 | train acc: 89.652% | lr: 0.069857
+2020-04-05 21:03:18,592 - b.py - INFO -    == step: [300/391], train loss: 0.784 | train acc: 89.471% | lr: 0.069857
+2020-04-05 21:03:20,818 - b.py - INFO -    == step: [391/391], train loss: 0.786 | train acc: 89.422% | lr: 0.069857
+2020-04-05 21:03:20,819 - b.py - INFO -    == cost time: 9.8899s
+2020-04-05 21:03:20,820 - b.py - INFO -  === Epoch: [76/200] === 
+2020-04-05 21:03:23,922 - b.py - INFO -    == step: [100/391], train loss: 0.779 | train acc: 89.477% | lr: 0.069134
+2020-04-05 21:03:26,199 - b.py - INFO -    == step: [200/391], train loss: 0.777 | train acc: 89.551% | lr: 0.069134
+2020-04-05 21:03:28,465 - b.py - INFO -    == step: [300/391], train loss: 0.780 | train acc: 89.427% | lr: 0.069134
+2020-04-05 21:03:30,656 - b.py - INFO -    == step: [391/391], train loss: 0.781 | train acc: 89.494% | lr: 0.069134
+2020-04-05 21:03:30,656 - b.py - INFO -    == cost time: 9.8368s
+2020-04-05 21:03:30,657 - b.py - INFO -  === Validate ===
+2020-04-05 21:03:31,943 - b.py - INFO -    == test loss: 0.957 | test acc: 82.840%
+2020-04-05 21:03:32,575 - b.py - INFO -  === Epoch: [77/200] === 
+2020-04-05 21:03:35,568 - b.py - INFO -    == step: [100/391], train loss: 0.775 | train acc: 89.945% | lr: 0.068406
+2020-04-05 21:03:37,850 - b.py - INFO -    == step: [200/391], train loss: 0.777 | train acc: 89.723% | lr: 0.068406
+2020-04-05 21:03:40,141 - b.py - INFO -    == step: [300/391], train loss: 0.782 | train acc: 89.555% | lr: 0.068406
+2020-04-05 21:03:42,308 - b.py - INFO -    == step: [391/391], train loss: 0.784 | train acc: 89.500% | lr: 0.068406
+2020-04-05 21:03:42,308 - b.py - INFO -    == cost time: 9.7336s
+2020-04-05 21:03:42,309 - b.py - INFO -  === Epoch: [78/200] === 
+2020-04-05 21:03:45,306 - b.py - INFO -    == step: [100/391], train loss: 0.766 | train acc: 90.148% | lr: 0.067674
+2020-04-05 21:03:47,552 - b.py - INFO -    == step: [200/391], train loss: 0.773 | train acc: 89.824% | lr: 0.067674
+2020-04-05 21:03:49,766 - b.py - INFO -    == step: [300/391], train loss: 0.781 | train acc: 89.398% | lr: 0.067674
+2020-04-05 21:03:51,987 - b.py - INFO -    == step: [391/391], train loss: 0.782 | train acc: 89.330% | lr: 0.067674
+2020-04-05 21:03:51,987 - b.py - INFO -    == cost time: 9.6787s
+2020-04-05 21:03:51,988 - b.py - INFO -  === Validate ===
+2020-04-05 21:03:53,297 - b.py - INFO -    == test loss: 0.941 | test acc: 83.030%
+2020-04-05 21:03:53,922 - b.py - INFO -  === Epoch: [79/200] === 
+2020-04-05 21:03:57,034 - b.py - INFO -    == step: [100/391], train loss: 0.771 | train acc: 90.062% | lr: 0.066937
+2020-04-05 21:03:59,273 - b.py - INFO -    == step: [200/391], train loss: 0.774 | train acc: 89.895% | lr: 0.066937
+2020-04-05 21:04:01,540 - b.py - INFO -    == step: [300/391], train loss: 0.775 | train acc: 89.812% | lr: 0.066937
+2020-04-05 21:04:03,746 - b.py - INFO -    == step: [391/391], train loss: 0.776 | train acc: 89.790% | lr: 0.066937
+2020-04-05 21:04:03,746 - b.py - INFO -    == cost time: 9.8245s
+2020-04-05 21:04:03,747 - b.py - INFO -  === Epoch: [80/200] === 
+2020-04-05 21:04:06,787 - b.py - INFO -    == step: [100/391], train loss: 0.758 | train acc: 90.570% | lr: 0.066196
+2020-04-05 21:04:09,113 - b.py - INFO -    == step: [200/391], train loss: 0.763 | train acc: 90.312% | lr: 0.066196
+2020-04-05 21:04:11,498 - b.py - INFO -    == step: [300/391], train loss: 0.769 | train acc: 90.055% | lr: 0.066196
+2020-04-05 21:04:13,749 - b.py - INFO -    == step: [391/391], train loss: 0.771 | train acc: 89.944% | lr: 0.066196
+2020-04-05 21:04:13,750 - b.py - INFO -    == cost time: 10.0032s
+2020-04-05 21:04:13,750 - b.py - INFO -  === Validate ===
+2020-04-05 21:04:15,024 - b.py - INFO -    == test loss: 0.954 | test acc: 82.790%
+2020-04-05 21:04:15,645 - b.py - INFO -  === Epoch: [81/200] === 
+2020-04-05 21:04:18,625 - b.py - INFO -    == step: [100/391], train loss: 0.764 | train acc: 90.273% | lr: 0.065451
+2020-04-05 21:04:20,914 - b.py - INFO -    == step: [200/391], train loss: 0.767 | train acc: 90.043% | lr: 0.065451
+2020-04-05 21:04:23,189 - b.py - INFO -    == step: [300/391], train loss: 0.771 | train acc: 89.904% | lr: 0.065451
+2020-04-05 21:04:25,371 - b.py - INFO -    == step: [391/391], train loss: 0.771 | train acc: 89.936% | lr: 0.065451
+2020-04-05 21:04:25,371 - b.py - INFO -    == cost time: 9.7264s
+2020-04-05 21:04:25,372 - b.py - INFO -  === Epoch: [82/200] === 
+2020-04-05 21:04:28,393 - b.py - INFO -    == step: [100/391], train loss: 0.755 | train acc: 90.609% | lr: 0.064702
+2020-04-05 21:04:30,615 - b.py - INFO -    == step: [200/391], train loss: 0.762 | train acc: 90.180% | lr: 0.064702
+2020-04-05 21:04:32,866 - b.py - INFO -    == step: [300/391], train loss: 0.766 | train acc: 90.081% | lr: 0.064702
+2020-04-05 21:04:35,036 - b.py - INFO -    == step: [391/391], train loss: 0.770 | train acc: 89.896% | lr: 0.064702
+2020-04-05 21:04:35,037 - b.py - INFO -    == cost time: 9.6651s
+2020-04-05 21:04:35,037 - b.py - INFO -  === Validate ===
+2020-04-05 21:04:36,324 - b.py - INFO -    == test loss: 0.922 | test acc: 84.250%
+2020-04-05 21:04:37,588 - b.py - INFO -  === Epoch: [83/200] === 
+2020-04-05 21:04:40,592 - b.py - INFO -    == step: [100/391], train loss: 0.749 | train acc: 90.969% | lr: 0.063950
+2020-04-05 21:04:42,816 - b.py - INFO -    == step: [200/391], train loss: 0.759 | train acc: 90.426% | lr: 0.063950
+2020-04-05 21:04:45,099 - b.py - INFO -    == step: [300/391], train loss: 0.762 | train acc: 90.279% | lr: 0.063950
+2020-04-05 21:04:47,270 - b.py - INFO -    == step: [391/391], train loss: 0.766 | train acc: 90.070% | lr: 0.063950
+2020-04-05 21:04:47,270 - b.py - INFO -    == cost time: 9.6825s
+2020-04-05 21:04:47,271 - b.py - INFO -  === Epoch: [84/200] === 
+2020-04-05 21:04:50,308 - b.py - INFO -    == step: [100/391], train loss: 0.744 | train acc: 91.164% | lr: 0.063194
+2020-04-05 21:04:52,564 - b.py - INFO -    == step: [200/391], train loss: 0.752 | train acc: 90.672% | lr: 0.063194
+2020-04-05 21:04:54,876 - b.py - INFO -    == step: [300/391], train loss: 0.757 | train acc: 90.521% | lr: 0.063194
+2020-04-05 21:04:57,056 - b.py - INFO -    == step: [391/391], train loss: 0.761 | train acc: 90.420% | lr: 0.063194
+2020-04-05 21:04:57,056 - b.py - INFO -    == cost time: 9.7856s
+2020-04-05 21:04:57,057 - b.py - INFO -  === Validate ===
+2020-04-05 21:04:58,270 - b.py - INFO -    == test loss: 0.927 | test acc: 83.560%
+2020-04-05 21:04:58,915 - b.py - INFO -  === Epoch: [85/200] === 
+2020-04-05 21:05:01,879 - b.py - INFO -    == step: [100/391], train loss: 0.750 | train acc: 91.055% | lr: 0.062434
+2020-04-05 21:05:04,114 - b.py - INFO -    == step: [200/391], train loss: 0.753 | train acc: 90.828% | lr: 0.062434
+2020-04-05 21:05:06,381 - b.py - INFO -    == step: [300/391], train loss: 0.757 | train acc: 90.599% | lr: 0.062434
+2020-04-05 21:05:08,501 - b.py - INFO -    == step: [391/391], train loss: 0.760 | train acc: 90.390% | lr: 0.062434
+2020-04-05 21:05:08,502 - b.py - INFO -    == cost time: 9.5873s
+2020-04-05 21:05:08,502 - b.py - INFO -  === Epoch: [86/200] === 
+2020-04-05 21:05:11,453 - b.py - INFO -    == step: [100/391], train loss: 0.751 | train acc: 90.602% | lr: 0.061672
+2020-04-05 21:05:13,698 - b.py - INFO -    == step: [200/391], train loss: 0.754 | train acc: 90.531% | lr: 0.061672
+2020-04-05 21:05:15,948 - b.py - INFO -    == step: [300/391], train loss: 0.756 | train acc: 90.510% | lr: 0.061672
+2020-04-05 21:05:18,096 - b.py - INFO -    == step: [391/391], train loss: 0.759 | train acc: 90.410% | lr: 0.061672
+2020-04-05 21:05:18,096 - b.py - INFO -    == cost time: 9.5945s
+2020-04-05 21:05:18,097 - b.py - INFO -  === Validate ===
+2020-04-05 21:05:19,426 - b.py - INFO -    == test loss: 0.946 | test acc: 83.210%
+2020-04-05 21:05:20,047 - b.py - INFO -  === Epoch: [87/200] === 
+2020-04-05 21:05:23,074 - b.py - INFO -    == step: [100/391], train loss: 0.753 | train acc: 90.453% | lr: 0.060907
+2020-04-05 21:05:25,324 - b.py - INFO -    == step: [200/391], train loss: 0.751 | train acc: 90.762% | lr: 0.060907
+2020-04-05 21:05:27,570 - b.py - INFO -    == step: [300/391], train loss: 0.754 | train acc: 90.727% | lr: 0.060907
+2020-04-05 21:05:29,737 - b.py - INFO -    == step: [391/391], train loss: 0.755 | train acc: 90.704% | lr: 0.060907
+2020-04-05 21:05:29,738 - b.py - INFO -    == cost time: 9.6914s
+2020-04-05 21:05:29,738 - b.py - INFO -  === Epoch: [88/200] === 
+2020-04-05 21:05:32,790 - b.py - INFO -    == step: [100/391], train loss: 0.742 | train acc: 91.438% | lr: 0.060139
+2020-04-05 21:05:35,041 - b.py - INFO -    == step: [200/391], train loss: 0.754 | train acc: 90.820% | lr: 0.060139
+2020-04-05 21:05:37,299 - b.py - INFO -    == step: [300/391], train loss: 0.757 | train acc: 90.570% | lr: 0.060139
+2020-04-05 21:05:39,512 - b.py - INFO -    == step: [391/391], train loss: 0.758 | train acc: 90.502% | lr: 0.060139
+2020-04-05 21:05:39,512 - b.py - INFO -    == cost time: 9.7743s
+2020-04-05 21:05:39,513 - b.py - INFO -  === Validate ===
+2020-04-05 21:05:40,864 - b.py - INFO -    == test loss: 0.928 | test acc: 83.990%
+2020-04-05 21:05:41,520 - b.py - INFO -  === Epoch: [89/200] === 
+2020-04-05 21:05:44,540 - b.py - INFO -    == step: [100/391], train loss: 0.751 | train acc: 90.844% | lr: 0.059369
+2020-04-05 21:05:46,875 - b.py - INFO -    == step: [200/391], train loss: 0.748 | train acc: 90.832% | lr: 0.059369
+2020-04-05 21:05:49,073 - b.py - INFO -    == step: [300/391], train loss: 0.747 | train acc: 90.862% | lr: 0.059369
+2020-04-05 21:05:51,219 - b.py - INFO -    == step: [391/391], train loss: 0.749 | train acc: 90.868% | lr: 0.059369
+2020-04-05 21:05:51,219 - b.py - INFO -    == cost time: 9.7000s
+2020-04-05 21:05:51,220 - b.py - INFO -  === Epoch: [90/200] === 
+2020-04-05 21:05:54,230 - b.py - INFO -    == step: [100/391], train loss: 0.738 | train acc: 91.422% | lr: 0.058596
+2020-04-05 21:05:56,496 - b.py - INFO -    == step: [200/391], train loss: 0.741 | train acc: 91.250% | lr: 0.058596
+2020-04-05 21:05:58,757 - b.py - INFO -    == step: [300/391], train loss: 0.746 | train acc: 91.068% | lr: 0.058596
+2020-04-05 21:06:00,965 - b.py - INFO -    == step: [391/391], train loss: 0.750 | train acc: 90.866% | lr: 0.058596
+2020-04-05 21:06:00,965 - b.py - INFO -    == cost time: 9.7459s
+2020-04-05 21:06:00,966 - b.py - INFO -  === Validate ===
+2020-04-05 21:06:02,229 - b.py - INFO -    == test loss: 0.948 | test acc: 83.390%
+2020-04-05 21:06:02,876 - b.py - INFO -  === Epoch: [91/200] === 
+2020-04-05 21:06:05,904 - b.py - INFO -    == step: [100/391], train loss: 0.747 | train acc: 91.102% | lr: 0.057822
+2020-04-05 21:06:08,143 - b.py - INFO -    == step: [200/391], train loss: 0.743 | train acc: 91.328% | lr: 0.057822
+2020-04-05 21:06:10,393 - b.py - INFO -    == step: [300/391], train loss: 0.748 | train acc: 91.091% | lr: 0.057822
+2020-04-05 21:06:12,563 - b.py - INFO -    == step: [391/391], train loss: 0.747 | train acc: 91.068% | lr: 0.057822
+2020-04-05 21:06:12,564 - b.py - INFO -    == cost time: 9.6878s
+2020-04-05 21:06:12,564 - b.py - INFO -  === Epoch: [92/200] === 
+2020-04-05 21:06:15,536 - b.py - INFO -    == step: [100/391], train loss: 0.738 | train acc: 91.148% | lr: 0.057045
+2020-04-05 21:06:17,771 - b.py - INFO -    == step: [200/391], train loss: 0.736 | train acc: 91.312% | lr: 0.057045
+2020-04-05 21:06:20,067 - b.py - INFO -    == step: [300/391], train loss: 0.743 | train acc: 91.065% | lr: 0.057045
+2020-04-05 21:06:22,316 - b.py - INFO -    == step: [391/391], train loss: 0.746 | train acc: 90.970% | lr: 0.057045
+2020-04-05 21:06:22,316 - b.py - INFO -    == cost time: 9.7523s
+2020-04-05 21:06:22,317 - b.py - INFO -  === Validate ===
+2020-04-05 21:06:23,630 - b.py - INFO -    == test loss: 0.947 | test acc: 83.420%
+2020-04-05 21:06:24,287 - b.py - INFO -  === Epoch: [93/200] === 
+2020-04-05 21:06:27,336 - b.py - INFO -    == step: [100/391], train loss: 0.737 | train acc: 91.531% | lr: 0.056267
+2020-04-05 21:06:29,643 - b.py - INFO -    == step: [200/391], train loss: 0.734 | train acc: 91.633% | lr: 0.056267
+2020-04-05 21:06:31,917 - b.py - INFO -    == step: [300/391], train loss: 0.737 | train acc: 91.521% | lr: 0.056267
+2020-04-05 21:06:34,120 - b.py - INFO -    == step: [391/391], train loss: 0.744 | train acc: 91.194% | lr: 0.056267
+2020-04-05 21:06:34,121 - b.py - INFO -    == cost time: 9.8341s
+2020-04-05 21:06:34,121 - b.py - INFO -  === Epoch: [94/200] === 
+2020-04-05 21:06:37,194 - b.py - INFO -    == step: [100/391], train loss: 0.731 | train acc: 91.898% | lr: 0.055487
+2020-04-05 21:06:39,484 - b.py - INFO -    == step: [200/391], train loss: 0.738 | train acc: 91.484% | lr: 0.055487
+2020-04-05 21:06:41,726 - b.py - INFO -    == step: [300/391], train loss: 0.740 | train acc: 91.349% | lr: 0.055487
+2020-04-05 21:06:43,884 - b.py - INFO -    == step: [391/391], train loss: 0.742 | train acc: 91.264% | lr: 0.055487
+2020-04-05 21:06:43,884 - b.py - INFO -    == cost time: 9.7633s
+2020-04-05 21:06:43,885 - b.py - INFO -  === Validate ===
+2020-04-05 21:06:45,131 - b.py - INFO -    == test loss: 0.934 | test acc: 84.150%
+2020-04-05 21:06:46,048 - b.py - INFO -  === Epoch: [95/200] === 
+2020-04-05 21:06:49,071 - b.py - INFO -    == step: [100/391], train loss: 0.719 | train acc: 92.008% | lr: 0.054705
+2020-04-05 21:06:51,337 - b.py - INFO -    == step: [200/391], train loss: 0.735 | train acc: 91.398% | lr: 0.054705
+2020-04-05 21:06:53,565 - b.py - INFO -    == step: [300/391], train loss: 0.735 | train acc: 91.518% | lr: 0.054705
+2020-04-05 21:06:55,741 - b.py - INFO -    == step: [391/391], train loss: 0.737 | train acc: 91.428% | lr: 0.054705
+2020-04-05 21:06:55,742 - b.py - INFO -    == cost time: 9.6943s
+2020-04-05 21:06:55,742 - b.py - INFO -  === Epoch: [96/200] === 
+2020-04-05 21:06:58,728 - b.py - INFO -    == step: [100/391], train loss: 0.729 | train acc: 91.836% | lr: 0.053923
+2020-04-05 21:07:00,956 - b.py - INFO -    == step: [200/391], train loss: 0.731 | train acc: 91.754% | lr: 0.053923
+2020-04-05 21:07:03,193 - b.py - INFO -    == step: [300/391], train loss: 0.735 | train acc: 91.583% | lr: 0.053923
+2020-04-05 21:07:05,338 - b.py - INFO -    == step: [391/391], train loss: 0.735 | train acc: 91.588% | lr: 0.053923
+2020-04-05 21:07:05,339 - b.py - INFO -    == cost time: 9.5968s
+2020-04-05 21:07:05,339 - b.py - INFO -  === Validate ===
+2020-04-05 21:07:06,578 - b.py - INFO -    == test loss: 0.922 | test acc: 84.450%
+2020-04-05 21:07:07,842 - b.py - INFO -  === Epoch: [97/200] === 
+2020-04-05 21:07:10,830 - b.py - INFO -    == step: [100/391], train loss: 0.729 | train acc: 91.734% | lr: 0.053140
+2020-04-05 21:07:13,076 - b.py - INFO -    == step: [200/391], train loss: 0.731 | train acc: 91.656% | lr: 0.053140
+2020-04-05 21:07:15,316 - b.py - INFO -    == step: [300/391], train loss: 0.733 | train acc: 91.635% | lr: 0.053140
+2020-04-05 21:07:17,460 - b.py - INFO -    == step: [391/391], train loss: 0.735 | train acc: 91.582% | lr: 0.053140
+2020-04-05 21:07:17,460 - b.py - INFO -    == cost time: 9.6184s
+2020-04-05 21:07:17,461 - b.py - INFO -  === Epoch: [98/200] === 
+2020-04-05 21:07:20,494 - b.py - INFO -    == step: [100/391], train loss: 0.719 | train acc: 92.234% | lr: 0.052355
+2020-04-05 21:07:22,761 - b.py - INFO -    == step: [200/391], train loss: 0.719 | train acc: 92.223% | lr: 0.052355
+2020-04-05 21:07:25,108 - b.py - INFO -    == step: [300/391], train loss: 0.724 | train acc: 91.992% | lr: 0.052355
+2020-04-05 21:07:27,233 - b.py - INFO -    == step: [391/391], train loss: 0.727 | train acc: 91.862% | lr: 0.052355
+2020-04-05 21:07:27,233 - b.py - INFO -    == cost time: 9.7725s
+2020-04-05 21:07:27,233 - b.py - INFO -  === Validate ===
+2020-04-05 21:07:28,455 - b.py - INFO -    == test loss: 0.942 | test acc: 83.690%
+2020-04-05 21:07:29,095 - b.py - INFO -  === Epoch: [99/200] === 
+2020-04-05 21:07:32,062 - b.py - INFO -    == step: [100/391], train loss: 0.714 | train acc: 92.609% | lr: 0.051571
+2020-04-05 21:07:34,272 - b.py - INFO -    == step: [200/391], train loss: 0.722 | train acc: 92.230% | lr: 0.051571
+2020-04-05 21:07:36,520 - b.py - INFO -    == step: [300/391], train loss: 0.726 | train acc: 92.013% | lr: 0.051571
+2020-04-05 21:07:38,694 - b.py - INFO -    == step: [391/391], train loss: 0.730 | train acc: 91.822% | lr: 0.051571
+2020-04-05 21:07:38,694 - b.py - INFO -    == cost time: 9.5997s
+2020-04-05 21:07:38,694 - b.py - INFO -  === Epoch: [100/200] === 
+2020-04-05 21:07:41,672 - b.py - INFO -    == step: [100/391], train loss: 0.710 | train acc: 92.477% | lr: 0.050785
+2020-04-05 21:07:43,917 - b.py - INFO -    == step: [200/391], train loss: 0.723 | train acc: 91.965% | lr: 0.050785
+2020-04-05 21:07:46,169 - b.py - INFO -    == step: [300/391], train loss: 0.724 | train acc: 91.961% | lr: 0.050785
+2020-04-05 21:07:48,296 - b.py - INFO -    == step: [391/391], train loss: 0.728 | train acc: 91.808% | lr: 0.050785
+2020-04-05 21:07:48,296 - b.py - INFO -    == cost time: 9.6020s
+2020-04-05 21:07:48,297 - b.py - INFO -  === Validate ===
+2020-04-05 21:07:49,570 - b.py - INFO -    == test loss: 0.922 | test acc: 84.150%
+2020-04-05 21:07:50,195 - b.py - INFO -  === Epoch: [101/200] === 
+2020-04-05 21:07:53,196 - b.py - INFO -    == step: [100/391], train loss: 0.711 | train acc: 92.469% | lr: 0.050000
+2020-04-05 21:07:55,453 - b.py - INFO -    == step: [200/391], train loss: 0.719 | train acc: 92.230% | lr: 0.050000
+2020-04-05 21:07:57,692 - b.py - INFO -    == step: [300/391], train loss: 0.724 | train acc: 91.977% | lr: 0.050000
+2020-04-05 21:07:59,836 - b.py - INFO -    == step: [391/391], train loss: 0.722 | train acc: 92.048% | lr: 0.050000
+2020-04-05 21:07:59,836 - b.py - INFO -    == cost time: 9.6415s
+2020-04-05 21:07:59,837 - b.py - INFO -  === Epoch: [102/200] === 
+2020-04-05 21:08:02,895 - b.py - INFO -    == step: [100/391], train loss: 0.707 | train acc: 92.797% | lr: 0.049215
+2020-04-05 21:08:05,085 - b.py - INFO -    == step: [200/391], train loss: 0.715 | train acc: 92.594% | lr: 0.049215
+2020-04-05 21:08:07,311 - b.py - INFO -    == step: [300/391], train loss: 0.716 | train acc: 92.464% | lr: 0.049215
+2020-04-05 21:08:09,407 - b.py - INFO -    == step: [391/391], train loss: 0.719 | train acc: 92.368% | lr: 0.049215
+2020-04-05 21:08:09,408 - b.py - INFO -    == cost time: 9.5711s
+2020-04-05 21:08:09,408 - b.py - INFO -  === Validate ===
+2020-04-05 21:08:10,680 - b.py - INFO -    == test loss: 0.936 | test acc: 83.910%
+2020-04-05 21:08:11,303 - b.py - INFO -  === Epoch: [103/200] === 
+2020-04-05 21:08:14,256 - b.py - INFO -    == step: [100/391], train loss: 0.708 | train acc: 93.070% | lr: 0.048429
+2020-04-05 21:08:16,547 - b.py - INFO -    == step: [200/391], train loss: 0.714 | train acc: 92.648% | lr: 0.048429
+2020-04-05 21:08:18,798 - b.py - INFO -    == step: [300/391], train loss: 0.717 | train acc: 92.422% | lr: 0.048429
+2020-04-05 21:08:21,006 - b.py - INFO -    == step: [391/391], train loss: 0.719 | train acc: 92.288% | lr: 0.048429
+2020-04-05 21:08:21,007 - b.py - INFO -    == cost time: 9.7042s
+2020-04-05 21:08:21,007 - b.py - INFO -  === Epoch: [104/200] === 
+2020-04-05 21:08:24,118 - b.py - INFO -    == step: [100/391], train loss: 0.704 | train acc: 92.867% | lr: 0.047645
+2020-04-05 21:08:26,387 - b.py - INFO -    == step: [200/391], train loss: 0.708 | train acc: 92.773% | lr: 0.047645
+2020-04-05 21:08:28,642 - b.py - INFO -    == step: [300/391], train loss: 0.709 | train acc: 92.740% | lr: 0.047645
+2020-04-05 21:08:30,817 - b.py - INFO -    == step: [391/391], train loss: 0.710 | train acc: 92.702% | lr: 0.047645
+2020-04-05 21:08:30,818 - b.py - INFO -    == cost time: 9.8109s
+2020-04-05 21:08:30,819 - b.py - INFO -  === Validate ===
+2020-04-05 21:08:32,085 - b.py - INFO -    == test loss: 0.923 | test acc: 84.790%
+2020-04-05 21:08:33,413 - b.py - INFO -  === Epoch: [105/200] === 
+2020-04-05 21:08:36,360 - b.py - INFO -    == step: [100/391], train loss: 0.703 | train acc: 92.977% | lr: 0.046860
+2020-04-05 21:08:38,592 - b.py - INFO -    == step: [200/391], train loss: 0.713 | train acc: 92.551% | lr: 0.046860
+2020-04-05 21:08:40,803 - b.py - INFO -    == step: [300/391], train loss: 0.714 | train acc: 92.479% | lr: 0.046860
+2020-04-05 21:08:42,901 - b.py - INFO -    == step: [391/391], train loss: 0.715 | train acc: 92.464% | lr: 0.046860
+2020-04-05 21:08:42,902 - b.py - INFO -    == cost time: 9.4898s
+2020-04-05 21:08:42,903 - b.py - INFO -  === Epoch: [106/200] === 
+2020-04-05 21:08:45,818 - b.py - INFO -    == step: [100/391], train loss: 0.706 | train acc: 92.938% | lr: 0.046077
+2020-04-05 21:08:47,986 - b.py - INFO -    == step: [200/391], train loss: 0.712 | train acc: 92.613% | lr: 0.046077
+2020-04-05 21:08:50,200 - b.py - INFO -    == step: [300/391], train loss: 0.711 | train acc: 92.607% | lr: 0.046077
+2020-04-05 21:08:52,352 - b.py - INFO -    == step: [391/391], train loss: 0.711 | train acc: 92.628% | lr: 0.046077
+2020-04-05 21:08:52,352 - b.py - INFO -    == cost time: 9.4500s
+2020-04-05 21:08:52,353 - b.py - INFO -  === Validate ===
+2020-04-05 21:08:53,580 - b.py - INFO -    == test loss: 0.937 | test acc: 84.010%
+2020-04-05 21:08:54,220 - b.py - INFO -  === Epoch: [107/200] === 
+2020-04-05 21:08:57,202 - b.py - INFO -    == step: [100/391], train loss: 0.688 | train acc: 93.578% | lr: 0.045295
+2020-04-05 21:08:59,347 - b.py - INFO -    == step: [200/391], train loss: 0.696 | train acc: 93.203% | lr: 0.045295
+2020-04-05 21:09:01,616 - b.py - INFO -    == step: [300/391], train loss: 0.703 | train acc: 92.984% | lr: 0.045295
+2020-04-05 21:09:03,780 - b.py - INFO -    == step: [391/391], train loss: 0.703 | train acc: 92.982% | lr: 0.045295
+2020-04-05 21:09:03,780 - b.py - INFO -    == cost time: 9.5603s
+2020-04-05 21:09:03,781 - b.py - INFO -  === Epoch: [108/200] === 
+2020-04-05 21:09:06,829 - b.py - INFO -    == step: [100/391], train loss: 0.686 | train acc: 93.789% | lr: 0.044513
+2020-04-05 21:09:09,088 - b.py - INFO -    == step: [200/391], train loss: 0.696 | train acc: 93.367% | lr: 0.044513
+2020-04-05 21:09:11,285 - b.py - INFO -    == step: [300/391], train loss: 0.699 | train acc: 93.180% | lr: 0.044513
+2020-04-05 21:09:13,441 - b.py - INFO -    == step: [391/391], train loss: 0.704 | train acc: 93.018% | lr: 0.044513
+2020-04-05 21:09:13,442 - b.py - INFO -    == cost time: 9.6614s
+2020-04-05 21:09:13,442 - b.py - INFO -  === Validate ===
+2020-04-05 21:09:14,707 - b.py - INFO -    == test loss: 0.934 | test acc: 84.170%
+2020-04-05 21:09:15,334 - b.py - INFO -  === Epoch: [109/200] === 
+2020-04-05 21:09:18,360 - b.py - INFO -    == step: [100/391], train loss: 0.700 | train acc: 93.219% | lr: 0.043733
+2020-04-05 21:09:20,615 - b.py - INFO -    == step: [200/391], train loss: 0.702 | train acc: 93.074% | lr: 0.043733
+2020-04-05 21:09:22,834 - b.py - INFO -    == step: [300/391], train loss: 0.704 | train acc: 92.953% | lr: 0.043733
+2020-04-05 21:09:24,983 - b.py - INFO -    == step: [391/391], train loss: 0.705 | train acc: 92.922% | lr: 0.043733
+2020-04-05 21:09:24,984 - b.py - INFO -    == cost time: 9.6499s
+2020-04-05 21:09:24,984 - b.py - INFO -  === Epoch: [110/200] === 
+2020-04-05 21:09:27,944 - b.py - INFO -    == step: [100/391], train loss: 0.693 | train acc: 93.688% | lr: 0.042955
+2020-04-05 21:09:30,200 - b.py - INFO -    == step: [200/391], train loss: 0.693 | train acc: 93.527% | lr: 0.042955
+2020-04-05 21:09:32,473 - b.py - INFO -    == step: [300/391], train loss: 0.696 | train acc: 93.417% | lr: 0.042955
+2020-04-05 21:09:34,658 - b.py - INFO -    == step: [391/391], train loss: 0.697 | train acc: 93.332% | lr: 0.042955
+2020-04-05 21:09:34,659 - b.py - INFO -    == cost time: 9.6752s
+2020-04-05 21:09:34,660 - b.py - INFO -  === Validate ===
+2020-04-05 21:09:35,936 - b.py - INFO -    == test loss: 0.937 | test acc: 84.400%
+2020-04-05 21:09:36,559 - b.py - INFO -  === Epoch: [111/200] === 
+2020-04-05 21:09:39,523 - b.py - INFO -    == step: [100/391], train loss: 0.684 | train acc: 94.023% | lr: 0.042178
+2020-04-05 21:09:41,726 - b.py - INFO -    == step: [200/391], train loss: 0.688 | train acc: 93.715% | lr: 0.042178
+2020-04-05 21:09:43,945 - b.py - INFO -    == step: [300/391], train loss: 0.691 | train acc: 93.549% | lr: 0.042178
+2020-04-05 21:09:46,112 - b.py - INFO -    == step: [391/391], train loss: 0.693 | train acc: 93.430% | lr: 0.042178
+2020-04-05 21:09:46,113 - b.py - INFO -    == cost time: 9.5538s
+2020-04-05 21:09:46,113 - b.py - INFO -  === Epoch: [112/200] === 
+2020-04-05 21:09:49,099 - b.py - INFO -    == step: [100/391], train loss: 0.690 | train acc: 93.672% | lr: 0.041404
+2020-04-05 21:09:51,327 - b.py - INFO -    == step: [200/391], train loss: 0.690 | train acc: 93.559% | lr: 0.041404
+2020-04-05 21:09:53,533 - b.py - INFO -    == step: [300/391], train loss: 0.691 | train acc: 93.495% | lr: 0.041404
+2020-04-05 21:09:55,690 - b.py - INFO -    == step: [391/391], train loss: 0.696 | train acc: 93.320% | lr: 0.041404
+2020-04-05 21:09:55,690 - b.py - INFO -    == cost time: 9.5772s
+2020-04-05 21:09:55,691 - b.py - INFO -  === Validate ===
+2020-04-05 21:09:56,969 - b.py - INFO -    == test loss: 0.922 | test acc: 84.520%
+2020-04-05 21:09:57,596 - b.py - INFO -  === Epoch: [113/200] === 
+2020-04-05 21:10:00,564 - b.py - INFO -    == step: [100/391], train loss: 0.680 | train acc: 94.008% | lr: 0.040631
+2020-04-05 21:10:02,804 - b.py - INFO -    == step: [200/391], train loss: 0.685 | train acc: 93.859% | lr: 0.040631
+2020-04-05 21:10:05,064 - b.py - INFO -    == step: [300/391], train loss: 0.687 | train acc: 93.695% | lr: 0.040631
+2020-04-05 21:10:07,218 - b.py - INFO -    == step: [391/391], train loss: 0.688 | train acc: 93.664% | lr: 0.040631
+2020-04-05 21:10:07,218 - b.py - INFO -    == cost time: 9.6228s
+2020-04-05 21:10:07,219 - b.py - INFO -  === Epoch: [114/200] === 
+2020-04-05 21:10:10,221 - b.py - INFO -    == step: [100/391], train loss: 0.685 | train acc: 94.031% | lr: 0.039861
+2020-04-05 21:10:12,505 - b.py - INFO -    == step: [200/391], train loss: 0.686 | train acc: 93.891% | lr: 0.039861
+2020-04-05 21:10:14,817 - b.py - INFO -    == step: [300/391], train loss: 0.692 | train acc: 93.635% | lr: 0.039861
+2020-04-05 21:10:17,008 - b.py - INFO -    == step: [391/391], train loss: 0.691 | train acc: 93.622% | lr: 0.039861
+2020-04-05 21:10:17,008 - b.py - INFO -    == cost time: 9.7898s
+2020-04-05 21:10:17,009 - b.py - INFO -  === Validate ===
+2020-04-05 21:10:18,350 - b.py - INFO -    == test loss: 0.926 | test acc: 84.620%
+2020-04-05 21:10:18,991 - b.py - INFO -  === Epoch: [115/200] === 
+2020-04-05 21:10:21,947 - b.py - INFO -    == step: [100/391], train loss: 0.674 | train acc: 94.320% | lr: 0.039093
+2020-04-05 21:10:24,200 - b.py - INFO -    == step: [200/391], train loss: 0.680 | train acc: 93.988% | lr: 0.039093
+2020-04-05 21:10:26,450 - b.py - INFO -    == step: [300/391], train loss: 0.686 | train acc: 93.669% | lr: 0.039093
+2020-04-05 21:10:28,636 - b.py - INFO -    == step: [391/391], train loss: 0.685 | train acc: 93.718% | lr: 0.039093
+2020-04-05 21:10:28,637 - b.py - INFO -    == cost time: 9.6465s
+2020-04-05 21:10:28,638 - b.py - INFO -  === Epoch: [116/200] === 
+2020-04-05 21:10:31,566 - b.py - INFO -    == step: [100/391], train loss: 0.678 | train acc: 93.992% | lr: 0.038328
+2020-04-05 21:10:33,775 - b.py - INFO -    == step: [200/391], train loss: 0.677 | train acc: 94.098% | lr: 0.038328
+2020-04-05 21:10:35,982 - b.py - INFO -    == step: [300/391], train loss: 0.682 | train acc: 93.888% | lr: 0.038328
+2020-04-05 21:10:38,086 - b.py - INFO -    == step: [391/391], train loss: 0.682 | train acc: 93.938% | lr: 0.038328
+2020-04-05 21:10:38,086 - b.py - INFO -    == cost time: 9.4491s
+2020-04-05 21:10:38,087 - b.py - INFO -  === Validate ===
+2020-04-05 21:10:39,361 - b.py - INFO -    == test loss: 0.932 | test acc: 84.520%
+2020-04-05 21:10:40,002 - b.py - INFO -  === Epoch: [117/200] === 
+2020-04-05 21:10:43,004 - b.py - INFO -    == step: [100/391], train loss: 0.670 | train acc: 94.609% | lr: 0.037566
+2020-04-05 21:10:45,279 - b.py - INFO -    == step: [200/391], train loss: 0.678 | train acc: 94.207% | lr: 0.037566
+2020-04-05 21:10:47,574 - b.py - INFO -    == step: [300/391], train loss: 0.681 | train acc: 94.023% | lr: 0.037566
+2020-04-05 21:10:49,792 - b.py - INFO -    == step: [391/391], train loss: 0.684 | train acc: 93.830% | lr: 0.037566
+2020-04-05 21:10:49,792 - b.py - INFO -    == cost time: 9.7910s
+2020-04-05 21:10:49,793 - b.py - INFO -  === Epoch: [118/200] === 
+2020-04-05 21:10:52,786 - b.py - INFO -    == step: [100/391], train loss: 0.669 | train acc: 94.727% | lr: 0.036806
+2020-04-05 21:10:55,021 - b.py - INFO -    == step: [200/391], train loss: 0.674 | train acc: 94.480% | lr: 0.036806
+2020-04-05 21:10:57,221 - b.py - INFO -    == step: [300/391], train loss: 0.676 | train acc: 94.349% | lr: 0.036806
+2020-04-05 21:10:59,361 - b.py - INFO -    == step: [391/391], train loss: 0.677 | train acc: 94.300% | lr: 0.036806
+2020-04-05 21:10:59,362 - b.py - INFO -    == cost time: 9.5690s
+2020-04-05 21:10:59,362 - b.py - INFO -  === Validate ===
+2020-04-05 21:11:00,642 - b.py - INFO -    == test loss: 0.929 | test acc: 84.480%
+2020-04-05 21:11:01,284 - b.py - INFO -  === Epoch: [119/200] === 
+2020-04-05 21:11:04,254 - b.py - INFO -    == step: [100/391], train loss: 0.667 | train acc: 94.703% | lr: 0.036050
+2020-04-05 21:11:06,495 - b.py - INFO -    == step: [200/391], train loss: 0.669 | train acc: 94.617% | lr: 0.036050
+2020-04-05 21:11:08,682 - b.py - INFO -    == step: [300/391], train loss: 0.670 | train acc: 94.615% | lr: 0.036050
+2020-04-05 21:11:10,791 - b.py - INFO -    == step: [391/391], train loss: 0.671 | train acc: 94.534% | lr: 0.036050
+2020-04-05 21:11:10,792 - b.py - INFO -    == cost time: 9.5082s
+2020-04-05 21:11:10,792 - b.py - INFO -  === Epoch: [120/200] === 
+2020-04-05 21:11:13,818 - b.py - INFO -    == step: [100/391], train loss: 0.667 | train acc: 94.492% | lr: 0.035298
+2020-04-05 21:11:16,056 - b.py - INFO -    == step: [200/391], train loss: 0.668 | train acc: 94.543% | lr: 0.035298
+2020-04-05 21:11:18,296 - b.py - INFO -    == step: [300/391], train loss: 0.669 | train acc: 94.479% | lr: 0.035298
+2020-04-05 21:11:20,498 - b.py - INFO -    == step: [391/391], train loss: 0.674 | train acc: 94.276% | lr: 0.035298
+2020-04-05 21:11:20,498 - b.py - INFO -    == cost time: 9.7062s
+2020-04-05 21:11:20,499 - b.py - INFO -  === Validate ===
+2020-04-05 21:11:21,772 - b.py - INFO -    == test loss: 0.924 | test acc: 84.450%
+2020-04-05 21:11:22,413 - b.py - INFO -  === Epoch: [121/200] === 
+2020-04-05 21:11:25,659 - b.py - INFO -    == step: [100/391], train loss: 0.663 | train acc: 94.719% | lr: 0.034549
+2020-04-05 21:11:27,898 - b.py - INFO -    == step: [200/391], train loss: 0.664 | train acc: 94.680% | lr: 0.034549
+2020-04-05 21:11:30,172 - b.py - INFO -    == step: [300/391], train loss: 0.668 | train acc: 94.461% | lr: 0.034549
+2020-04-05 21:11:32,338 - b.py - INFO -    == step: [391/391], train loss: 0.669 | train acc: 94.492% | lr: 0.034549
+2020-04-05 21:11:32,339 - b.py - INFO -    == cost time: 9.9256s
+2020-04-05 21:11:32,339 - b.py - INFO -  === Epoch: [122/200] === 
+2020-04-05 21:11:35,338 - b.py - INFO -    == step: [100/391], train loss: 0.667 | train acc: 94.516% | lr: 0.033804
+2020-04-05 21:11:37,845 - b.py - INFO -    == step: [200/391], train loss: 0.668 | train acc: 94.500% | lr: 0.033804
+2020-04-05 21:11:40,111 - b.py - INFO -    == step: [300/391], train loss: 0.668 | train acc: 94.492% | lr: 0.033804
+2020-04-05 21:11:42,268 - b.py - INFO -    == step: [391/391], train loss: 0.671 | train acc: 94.370% | lr: 0.033804
+2020-04-05 21:11:42,269 - b.py - INFO -    == cost time: 9.9301s
+2020-04-05 21:11:42,270 - b.py - INFO -  === Validate ===
+2020-04-05 21:11:43,584 - b.py - INFO -    == test loss: 0.925 | test acc: 84.860%
+2020-04-05 21:11:44,853 - b.py - INFO -  === Epoch: [123/200] === 
+2020-04-05 21:11:47,894 - b.py - INFO -    == step: [100/391], train loss: 0.658 | train acc: 94.914% | lr: 0.033063
+2020-04-05 21:11:50,175 - b.py - INFO -    == step: [200/391], train loss: 0.660 | train acc: 94.816% | lr: 0.033063
+2020-04-05 21:11:52,437 - b.py - INFO -    == step: [300/391], train loss: 0.665 | train acc: 94.599% | lr: 0.033063
+2020-04-05 21:11:54,645 - b.py - INFO -    == step: [391/391], train loss: 0.666 | train acc: 94.574% | lr: 0.033063
+2020-04-05 21:11:54,645 - b.py - INFO -    == cost time: 9.7933s
+2020-04-05 21:11:54,646 - b.py - INFO -  === Epoch: [124/200] === 
+2020-04-05 21:11:57,655 - b.py - INFO -    == step: [100/391], train loss: 0.654 | train acc: 95.219% | lr: 0.032326
+2020-04-05 21:11:59,886 - b.py - INFO -    == step: [200/391], train loss: 0.659 | train acc: 95.035% | lr: 0.032326
+2020-04-05 21:12:02,134 - b.py - INFO -    == step: [300/391], train loss: 0.662 | train acc: 94.924% | lr: 0.032326
+2020-04-05 21:12:04,353 - b.py - INFO -    == step: [391/391], train loss: 0.664 | train acc: 94.812% | lr: 0.032326
+2020-04-05 21:12:04,353 - b.py - INFO -    == cost time: 9.7075s
+2020-04-05 21:12:04,354 - b.py - INFO -  === Validate ===
+2020-04-05 21:12:05,616 - b.py - INFO -    == test loss: 0.926 | test acc: 84.980%
+2020-04-05 21:12:06,902 - b.py - INFO -  === Epoch: [125/200] === 
+2020-04-05 21:12:09,816 - b.py - INFO -    == step: [100/391], train loss: 0.657 | train acc: 95.125% | lr: 0.031594
+2020-04-05 21:12:11,999 - b.py - INFO -    == step: [200/391], train loss: 0.656 | train acc: 95.188% | lr: 0.031594
+2020-04-05 21:12:14,208 - b.py - INFO -    == step: [300/391], train loss: 0.657 | train acc: 95.089% | lr: 0.031594
+2020-04-05 21:12:16,329 - b.py - INFO -    == step: [391/391], train loss: 0.660 | train acc: 94.942% | lr: 0.031594
+2020-04-05 21:12:16,329 - b.py - INFO -    == cost time: 9.4272s
+2020-04-05 21:12:16,329 - b.py - INFO -  === Epoch: [126/200] === 
+2020-04-05 21:12:19,315 - b.py - INFO -    == step: [100/391], train loss: 0.654 | train acc: 95.242% | lr: 0.030866
+2020-04-05 21:12:21,497 - b.py - INFO -    == step: [200/391], train loss: 0.655 | train acc: 95.176% | lr: 0.030866
+2020-04-05 21:12:23,676 - b.py - INFO -    == step: [300/391], train loss: 0.654 | train acc: 95.211% | lr: 0.030866
+2020-04-05 21:12:25,873 - b.py - INFO -    == step: [391/391], train loss: 0.658 | train acc: 95.048% | lr: 0.030866
+2020-04-05 21:12:25,873 - b.py - INFO -    == cost time: 9.5440s
+2020-04-05 21:12:25,874 - b.py - INFO -  === Validate ===
+2020-04-05 21:12:27,187 - b.py - INFO -    == test loss: 0.943 | test acc: 84.390%
+2020-04-05 21:12:27,830 - b.py - INFO -  === Epoch: [127/200] === 
+2020-04-05 21:12:30,889 - b.py - INFO -    == step: [100/391], train loss: 0.651 | train acc: 95.289% | lr: 0.030143
+2020-04-05 21:12:33,138 - b.py - INFO -    == step: [200/391], train loss: 0.652 | train acc: 95.184% | lr: 0.030143
+2020-04-05 21:12:35,347 - b.py - INFO -    == step: [300/391], train loss: 0.651 | train acc: 95.234% | lr: 0.030143
+2020-04-05 21:12:37,488 - b.py - INFO -    == step: [391/391], train loss: 0.654 | train acc: 95.148% | lr: 0.030143
+2020-04-05 21:12:37,489 - b.py - INFO -    == cost time: 9.6600s
+2020-04-05 21:12:37,490 - b.py - INFO -  === Epoch: [128/200] === 
+2020-04-05 21:12:40,421 - b.py - INFO -    == step: [100/391], train loss: 0.655 | train acc: 95.266% | lr: 0.029424
+2020-04-05 21:12:42,607 - b.py - INFO -    == step: [200/391], train loss: 0.649 | train acc: 95.445% | lr: 0.029424
+2020-04-05 21:12:44,805 - b.py - INFO -    == step: [300/391], train loss: 0.650 | train acc: 95.438% | lr: 0.029424
+2020-04-05 21:12:46,946 - b.py - INFO -    == step: [391/391], train loss: 0.652 | train acc: 95.324% | lr: 0.029424
+2020-04-05 21:12:46,947 - b.py - INFO -    == cost time: 9.4576s
+2020-04-05 21:12:46,948 - b.py - INFO -  === Validate ===
+2020-04-05 21:12:48,198 - b.py - INFO -    == test loss: 0.940 | test acc: 84.710%
+2020-04-05 21:12:48,826 - b.py - INFO -  === Epoch: [129/200] === 
+2020-04-05 21:12:51,755 - b.py - INFO -    == step: [100/391], train loss: 0.649 | train acc: 95.453% | lr: 0.028711
+2020-04-05 21:12:53,999 - b.py - INFO -    == step: [200/391], train loss: 0.650 | train acc: 95.445% | lr: 0.028711
+2020-04-05 21:12:56,237 - b.py - INFO -    == step: [300/391], train loss: 0.651 | train acc: 95.367% | lr: 0.028711
+2020-04-05 21:12:58,399 - b.py - INFO -    == step: [391/391], train loss: 0.652 | train acc: 95.280% | lr: 0.028711
+2020-04-05 21:12:58,399 - b.py - INFO -    == cost time: 9.5743s
+2020-04-05 21:12:58,400 - b.py - INFO -  === Epoch: [130/200] === 
+2020-04-05 21:13:01,385 - b.py - INFO -    == step: [100/391], train loss: 0.641 | train acc: 95.719% | lr: 0.028003
+2020-04-05 21:13:03,639 - b.py - INFO -    == step: [200/391], train loss: 0.646 | train acc: 95.527% | lr: 0.028003
+2020-04-05 21:13:05,893 - b.py - INFO -    == step: [300/391], train loss: 0.647 | train acc: 95.484% | lr: 0.028003
+2020-04-05 21:13:08,001 - b.py - INFO -    == step: [391/391], train loss: 0.647 | train acc: 95.494% | lr: 0.028003
+2020-04-05 21:13:08,002 - b.py - INFO -    == cost time: 9.6021s
+2020-04-05 21:13:08,002 - b.py - INFO -  === Validate ===
+2020-04-05 21:13:09,239 - b.py - INFO -    == test loss: 0.945 | test acc: 84.600%
+2020-04-05 21:13:09,880 - b.py - INFO -  === Epoch: [131/200] === 
+2020-04-05 21:13:12,845 - b.py - INFO -    == step: [100/391], train loss: 0.642 | train acc: 95.672% | lr: 0.027300
+2020-04-05 21:13:15,027 - b.py - INFO -    == step: [200/391], train loss: 0.646 | train acc: 95.570% | lr: 0.027300
+2020-04-05 21:13:17,278 - b.py - INFO -    == step: [300/391], train loss: 0.645 | train acc: 95.628% | lr: 0.027300
+2020-04-05 21:13:19,464 - b.py - INFO -    == step: [391/391], train loss: 0.646 | train acc: 95.578% | lr: 0.027300
+2020-04-05 21:13:19,464 - b.py - INFO -    == cost time: 9.5853s
+2020-04-05 21:13:19,465 - b.py - INFO -  === Epoch: [132/200] === 
+2020-04-05 21:13:22,456 - b.py - INFO -    == step: [100/391], train loss: 0.628 | train acc: 96.422% | lr: 0.026604
+2020-04-05 21:13:24,689 - b.py - INFO -    == step: [200/391], train loss: 0.634 | train acc: 96.133% | lr: 0.026604
+2020-04-05 21:13:26,915 - b.py - INFO -    == step: [300/391], train loss: 0.639 | train acc: 95.904% | lr: 0.026604
+2020-04-05 21:13:29,021 - b.py - INFO -    == step: [391/391], train loss: 0.640 | train acc: 95.834% | lr: 0.026604
+2020-04-05 21:13:29,022 - b.py - INFO -    == cost time: 9.5570s
+2020-04-05 21:13:29,022 - b.py - INFO -  === Validate ===
+2020-04-05 21:13:30,273 - b.py - INFO -    == test loss: 0.921 | test acc: 85.570%
+2020-04-05 21:13:31,571 - b.py - INFO -  === Epoch: [133/200] === 
+2020-04-05 21:13:34,523 - b.py - INFO -    == step: [100/391], train loss: 0.630 | train acc: 96.398% | lr: 0.025912
+2020-04-05 21:13:36,739 - b.py - INFO -    == step: [200/391], train loss: 0.632 | train acc: 96.297% | lr: 0.025912
+2020-04-05 21:13:38,969 - b.py - INFO -    == step: [300/391], train loss: 0.638 | train acc: 95.961% | lr: 0.025912
+2020-04-05 21:13:41,150 - b.py - INFO -    == step: [391/391], train loss: 0.640 | train acc: 95.920% | lr: 0.025912
+2020-04-05 21:13:41,151 - b.py - INFO -    == cost time: 9.5804s
+2020-04-05 21:13:41,152 - b.py - INFO -  === Epoch: [134/200] === 
+2020-04-05 21:13:44,140 - b.py - INFO -    == step: [100/391], train loss: 0.639 | train acc: 95.867% | lr: 0.025227
+2020-04-05 21:13:46,388 - b.py - INFO -    == step: [200/391], train loss: 0.636 | train acc: 95.945% | lr: 0.025227
+2020-04-05 21:13:48,592 - b.py - INFO -    == step: [300/391], train loss: 0.636 | train acc: 95.906% | lr: 0.025227
+2020-04-05 21:13:50,750 - b.py - INFO -    == step: [391/391], train loss: 0.637 | train acc: 95.898% | lr: 0.025227
+2020-04-05 21:13:50,750 - b.py - INFO -    == cost time: 9.5987s
+2020-04-05 21:13:50,751 - b.py - INFO -  === Validate ===
+2020-04-05 21:13:52,021 - b.py - INFO -    == test loss: 0.923 | test acc: 85.280%
+2020-04-05 21:13:52,657 - b.py - INFO -  === Epoch: [135/200] === 
+2020-04-05 21:13:55,664 - b.py - INFO -    == step: [100/391], train loss: 0.634 | train acc: 96.102% | lr: 0.024548
+2020-04-05 21:13:57,915 - b.py - INFO -    == step: [200/391], train loss: 0.634 | train acc: 96.098% | lr: 0.024548
+2020-04-05 21:14:00,161 - b.py - INFO -    == step: [300/391], train loss: 0.634 | train acc: 96.161% | lr: 0.024548
+2020-04-05 21:14:02,334 - b.py - INFO -    == step: [391/391], train loss: 0.633 | train acc: 96.182% | lr: 0.024548
+2020-04-05 21:14:02,335 - b.py - INFO -    == cost time: 9.6785s
+2020-04-05 21:14:02,335 - b.py - INFO -  === Epoch: [136/200] === 
+2020-04-05 21:14:05,214 - b.py - INFO -    == step: [100/391], train loss: 0.626 | train acc: 96.391% | lr: 0.023875
+2020-04-05 21:14:07,473 - b.py - INFO -    == step: [200/391], train loss: 0.631 | train acc: 96.152% | lr: 0.023875
+2020-04-05 21:14:09,732 - b.py - INFO -    == step: [300/391], train loss: 0.633 | train acc: 96.102% | lr: 0.023875
+2020-04-05 21:14:11,927 - b.py - INFO -    == step: [391/391], train loss: 0.635 | train acc: 95.996% | lr: 0.023875
+2020-04-05 21:14:11,927 - b.py - INFO -    == cost time: 9.5922s
+2020-04-05 21:14:11,928 - b.py - INFO -  === Validate ===
+2020-04-05 21:14:13,236 - b.py - INFO -    == test loss: 0.914 | test acc: 85.470%
+2020-04-05 21:14:13,886 - b.py - INFO -  === Epoch: [137/200] === 
+2020-04-05 21:14:16,893 - b.py - INFO -    == step: [100/391], train loss: 0.625 | train acc: 96.516% | lr: 0.023209
+2020-04-05 21:14:19,183 - b.py - INFO -    == step: [200/391], train loss: 0.626 | train acc: 96.480% | lr: 0.023209
+2020-04-05 21:14:21,366 - b.py - INFO -    == step: [300/391], train loss: 0.627 | train acc: 96.409% | lr: 0.023209
+2020-04-05 21:14:23,485 - b.py - INFO -    == step: [391/391], train loss: 0.628 | train acc: 96.358% | lr: 0.023209
+2020-04-05 21:14:23,486 - b.py - INFO -    == cost time: 9.6006s
+2020-04-05 21:14:23,487 - b.py - INFO -  === Epoch: [138/200] === 
+2020-04-05 21:14:26,427 - b.py - INFO -    == step: [100/391], train loss: 0.621 | train acc: 96.820% | lr: 0.022549
+2020-04-05 21:14:28,626 - b.py - INFO -    == step: [200/391], train loss: 0.624 | train acc: 96.625% | lr: 0.022549
+2020-04-05 21:14:30,819 - b.py - INFO -    == step: [300/391], train loss: 0.626 | train acc: 96.508% | lr: 0.022549
+2020-04-05 21:14:32,977 - b.py - INFO -    == step: [391/391], train loss: 0.627 | train acc: 96.428% | lr: 0.022549
+2020-04-05 21:14:32,977 - b.py - INFO -    == cost time: 9.4906s
+2020-04-05 21:14:32,978 - b.py - INFO -  === Validate ===
+2020-04-05 21:14:34,196 - b.py - INFO -    == test loss: 0.914 | test acc: 85.670%
+2020-04-05 21:14:35,482 - b.py - INFO -  === Epoch: [139/200] === 
+2020-04-05 21:14:38,375 - b.py - INFO -    == step: [100/391], train loss: 0.618 | train acc: 96.789% | lr: 0.021896
+2020-04-05 21:14:40,529 - b.py - INFO -    == step: [200/391], train loss: 0.621 | train acc: 96.625% | lr: 0.021896
+2020-04-05 21:14:42,712 - b.py - INFO -    == step: [300/391], train loss: 0.624 | train acc: 96.505% | lr: 0.021896
+2020-04-05 21:14:44,793 - b.py - INFO -    == step: [391/391], train loss: 0.624 | train acc: 96.556% | lr: 0.021896
+2020-04-05 21:14:44,794 - b.py - INFO -    == cost time: 9.3119s
+2020-04-05 21:14:44,794 - b.py - INFO -  === Epoch: [140/200] === 
+2020-04-05 21:14:47,757 - b.py - INFO -    == step: [100/391], train loss: 0.616 | train acc: 96.750% | lr: 0.021250
+2020-04-05 21:14:49,986 - b.py - INFO -    == step: [200/391], train loss: 0.619 | train acc: 96.770% | lr: 0.021250
+2020-04-05 21:14:52,228 - b.py - INFO -    == step: [300/391], train loss: 0.621 | train acc: 96.669% | lr: 0.021250
+2020-04-05 21:14:54,338 - b.py - INFO -    == step: [391/391], train loss: 0.622 | train acc: 96.622% | lr: 0.021250
+2020-04-05 21:14:54,339 - b.py - INFO -    == cost time: 9.5447s
+2020-04-05 21:14:54,339 - b.py - INFO -  === Validate ===
+2020-04-05 21:14:55,568 - b.py - INFO -    == test loss: 0.928 | test acc: 85.530%
+2020-04-05 21:14:56,206 - b.py - INFO -  === Epoch: [141/200] === 
+2020-04-05 21:14:59,120 - b.py - INFO -    == step: [100/391], train loss: 0.613 | train acc: 97.039% | lr: 0.020611
+2020-04-05 21:15:01,308 - b.py - INFO -    == step: [200/391], train loss: 0.618 | train acc: 96.766% | lr: 0.020611
+2020-04-05 21:15:03,468 - b.py - INFO -    == step: [300/391], train loss: 0.618 | train acc: 96.799% | lr: 0.020611
+2020-04-05 21:15:05,574 - b.py - INFO -    == step: [391/391], train loss: 0.618 | train acc: 96.784% | lr: 0.020611
+2020-04-05 21:15:05,575 - b.py - INFO -    == cost time: 9.3693s
+2020-04-05 21:15:05,575 - b.py - INFO -  === Epoch: [142/200] === 
+2020-04-05 21:15:08,504 - b.py - INFO -    == step: [100/391], train loss: 0.617 | train acc: 96.805% | lr: 0.019979
+2020-04-05 21:15:10,709 - b.py - INFO -    == step: [200/391], train loss: 0.615 | train acc: 96.875% | lr: 0.019979
+2020-04-05 21:15:12,910 - b.py - INFO -    == step: [300/391], train loss: 0.614 | train acc: 96.977% | lr: 0.019979
+2020-04-05 21:15:14,992 - b.py - INFO -    == step: [391/391], train loss: 0.615 | train acc: 96.920% | lr: 0.019979
+2020-04-05 21:15:14,992 - b.py - INFO -    == cost time: 9.4175s
+2020-04-05 21:15:14,993 - b.py - INFO -  === Validate ===
+2020-04-05 21:15:16,252 - b.py - INFO -    == test loss: 0.925 | test acc: 85.430%
+2020-04-05 21:15:16,887 - b.py - INFO -  === Epoch: [143/200] === 
+2020-04-05 21:15:19,843 - b.py - INFO -    == step: [100/391], train loss: 0.611 | train acc: 97.062% | lr: 0.019355
+2020-04-05 21:15:22,065 - b.py - INFO -    == step: [200/391], train loss: 0.611 | train acc: 97.078% | lr: 0.019355
+2020-04-05 21:15:24,279 - b.py - INFO -    == step: [300/391], train loss: 0.613 | train acc: 96.979% | lr: 0.019355
+2020-04-05 21:15:26,447 - b.py - INFO -    == step: [391/391], train loss: 0.613 | train acc: 96.976% | lr: 0.019355
+2020-04-05 21:15:26,448 - b.py - INFO -    == cost time: 9.5609s
+2020-04-05 21:15:26,448 - b.py - INFO -  === Epoch: [144/200] === 
+2020-04-05 21:15:29,304 - b.py - INFO -    == step: [100/391], train loss: 0.608 | train acc: 97.312% | lr: 0.018738
+2020-04-05 21:15:31,496 - b.py - INFO -    == step: [200/391], train loss: 0.608 | train acc: 97.258% | lr: 0.018738
+2020-04-05 21:15:33,713 - b.py - INFO -    == step: [300/391], train loss: 0.612 | train acc: 97.073% | lr: 0.018738
+2020-04-05 21:15:35,841 - b.py - INFO -    == step: [391/391], train loss: 0.611 | train acc: 97.108% | lr: 0.018738
+2020-04-05 21:15:35,842 - b.py - INFO -    == cost time: 9.3934s
+2020-04-05 21:15:35,843 - b.py - INFO -  === Validate ===
+2020-04-05 21:15:37,085 - b.py - INFO -    == test loss: 0.928 | test acc: 85.520%
+2020-04-05 21:15:37,733 - b.py - INFO -  === Epoch: [145/200] === 
+2020-04-05 21:15:40,659 - b.py - INFO -    == step: [100/391], train loss: 0.614 | train acc: 96.883% | lr: 0.018129
+2020-04-05 21:15:42,866 - b.py - INFO -    == step: [200/391], train loss: 0.609 | train acc: 97.203% | lr: 0.018129
+2020-04-05 21:15:45,077 - b.py - INFO -    == step: [300/391], train loss: 0.610 | train acc: 97.148% | lr: 0.018129
+2020-04-05 21:15:47,222 - b.py - INFO -    == step: [391/391], train loss: 0.610 | train acc: 97.180% | lr: 0.018129
+2020-04-05 21:15:47,222 - b.py - INFO -    == cost time: 9.4891s
+2020-04-05 21:15:47,223 - b.py - INFO -  === Epoch: [146/200] === 
+2020-04-05 21:15:50,208 - b.py - INFO -    == step: [100/391], train loss: 0.601 | train acc: 97.562% | lr: 0.017528
+2020-04-05 21:15:52,430 - b.py - INFO -    == step: [200/391], train loss: 0.601 | train acc: 97.617% | lr: 0.017528
+2020-04-05 21:15:54,621 - b.py - INFO -    == step: [300/391], train loss: 0.604 | train acc: 97.471% | lr: 0.017528
+2020-04-05 21:15:56,724 - b.py - INFO -    == step: [391/391], train loss: 0.605 | train acc: 97.406% | lr: 0.017528
+2020-04-05 21:15:56,725 - b.py - INFO -    == cost time: 9.5027s
+2020-04-05 21:15:56,726 - b.py - INFO -  === Validate ===
+2020-04-05 21:15:57,936 - b.py - INFO -    == test loss: 0.933 | test acc: 85.730%
+2020-04-05 21:15:59,210 - b.py - INFO -  === Epoch: [147/200] === 
+2020-04-05 21:16:02,172 - b.py - INFO -    == step: [100/391], train loss: 0.600 | train acc: 97.516% | lr: 0.016934
+2020-04-05 21:16:04,374 - b.py - INFO -    == step: [200/391], train loss: 0.600 | train acc: 97.535% | lr: 0.016934
+2020-04-05 21:16:06,558 - b.py - INFO -    == step: [300/391], train loss: 0.602 | train acc: 97.526% | lr: 0.016934
+2020-04-05 21:16:08,620 - b.py - INFO -    == step: [391/391], train loss: 0.603 | train acc: 97.476% | lr: 0.016934
+2020-04-05 21:16:08,620 - b.py - INFO -    == cost time: 9.4110s
+2020-04-05 21:16:08,621 - b.py - INFO -  === Epoch: [148/200] === 
+2020-04-05 21:16:11,533 - b.py - INFO -    == step: [100/391], train loss: 0.601 | train acc: 97.453% | lr: 0.016349
+2020-04-05 21:16:13,694 - b.py - INFO -    == step: [200/391], train loss: 0.600 | train acc: 97.598% | lr: 0.016349
+2020-04-05 21:16:15,857 - b.py - INFO -    == step: [300/391], train loss: 0.603 | train acc: 97.492% | lr: 0.016349
+2020-04-05 21:16:17,951 - b.py - INFO -    == step: [391/391], train loss: 0.603 | train acc: 97.502% | lr: 0.016349
+2020-04-05 21:16:17,952 - b.py - INFO -    == cost time: 9.3312s
+2020-04-05 21:16:17,952 - b.py - INFO -  === Validate ===
+2020-04-05 21:16:19,207 - b.py - INFO -    == test loss: 0.935 | test acc: 85.820%
+2020-04-05 21:16:20,504 - b.py - INFO -  === Epoch: [149/200] === 
+2020-04-05 21:16:23,409 - b.py - INFO -    == step: [100/391], train loss: 0.599 | train acc: 97.562% | lr: 0.015773
+2020-04-05 21:16:25,614 - b.py - INFO -    == step: [200/391], train loss: 0.601 | train acc: 97.570% | lr: 0.015773
+2020-04-05 21:16:27,793 - b.py - INFO -    == step: [300/391], train loss: 0.600 | train acc: 97.625% | lr: 0.015773
+2020-04-05 21:16:29,896 - b.py - INFO -    == step: [391/391], train loss: 0.601 | train acc: 97.598% | lr: 0.015773
+2020-04-05 21:16:29,896 - b.py - INFO -    == cost time: 9.3928s
+2020-04-05 21:16:29,897 - b.py - INFO -  === Epoch: [150/200] === 
+2020-04-05 21:16:32,853 - b.py - INFO -    == step: [100/391], train loss: 0.593 | train acc: 97.852% | lr: 0.015204
+2020-04-05 21:16:35,047 - b.py - INFO -    == step: [200/391], train loss: 0.596 | train acc: 97.758% | lr: 0.015204
+2020-04-05 21:16:37,292 - b.py - INFO -    == step: [300/391], train loss: 0.597 | train acc: 97.732% | lr: 0.015204
+2020-04-05 21:16:39,375 - b.py - INFO -    == step: [391/391], train loss: 0.598 | train acc: 97.704% | lr: 0.015204
+2020-04-05 21:16:39,376 - b.py - INFO -    == cost time: 9.4791s
+2020-04-05 21:16:39,376 - b.py - INFO -  === Validate ===
+2020-04-05 21:16:40,708 - b.py - INFO -    == test loss: 0.925 | test acc: 85.950%
+2020-04-05 21:16:42,022 - b.py - INFO -  === Epoch: [151/200] === 
+2020-04-05 21:16:44,933 - b.py - INFO -    == step: [100/391], train loss: 0.598 | train acc: 97.727% | lr: 0.014645
+2020-04-05 21:16:47,126 - b.py - INFO -    == step: [200/391], train loss: 0.594 | train acc: 97.836% | lr: 0.014645
+2020-04-05 21:16:49,311 - b.py - INFO -    == step: [300/391], train loss: 0.594 | train acc: 97.862% | lr: 0.014645
+2020-04-05 21:16:51,442 - b.py - INFO -    == step: [391/391], train loss: 0.594 | train acc: 97.856% | lr: 0.014645
+2020-04-05 21:16:51,443 - b.py - INFO -    == cost time: 9.4208s
+2020-04-05 21:16:51,443 - b.py - INFO -  === Epoch: [152/200] === 
+2020-04-05 21:16:54,445 - b.py - INFO -    == step: [100/391], train loss: 0.594 | train acc: 98.016% | lr: 0.014094
+2020-04-05 21:16:56,707 - b.py - INFO -    == step: [200/391], train loss: 0.590 | train acc: 98.164% | lr: 0.014094
+2020-04-05 21:16:58,873 - b.py - INFO -    == step: [300/391], train loss: 0.590 | train acc: 98.130% | lr: 0.014094
+2020-04-05 21:17:01,014 - b.py - INFO -    == step: [391/391], train loss: 0.591 | train acc: 98.082% | lr: 0.014094
+2020-04-05 21:17:01,015 - b.py - INFO -    == cost time: 9.5716s
+2020-04-05 21:17:01,015 - b.py - INFO -  === Validate ===
+2020-04-05 21:17:02,403 - b.py - INFO -    == test loss: 0.923 | test acc: 85.870%
+2020-04-05 21:17:03,020 - b.py - INFO -  === Epoch: [153/200] === 
+2020-04-05 21:17:05,924 - b.py - INFO -    == step: [100/391], train loss: 0.588 | train acc: 98.211% | lr: 0.013552
+2020-04-05 21:17:08,074 - b.py - INFO -    == step: [200/391], train loss: 0.590 | train acc: 98.078% | lr: 0.013552
+2020-04-05 21:17:10,268 - b.py - INFO -    == step: [300/391], train loss: 0.590 | train acc: 98.073% | lr: 0.013552
+2020-04-05 21:17:12,514 - b.py - INFO -    == step: [391/391], train loss: 0.591 | train acc: 98.046% | lr: 0.013552
+2020-04-05 21:17:12,514 - b.py - INFO -    == cost time: 9.4951s
+2020-04-05 21:17:12,515 - b.py - INFO -  === Epoch: [154/200] === 
+2020-04-05 21:17:15,447 - b.py - INFO -    == step: [100/391], train loss: 0.586 | train acc: 98.234% | lr: 0.013018
+2020-04-05 21:17:17,693 - b.py - INFO -    == step: [200/391], train loss: 0.588 | train acc: 98.191% | lr: 0.013018
+2020-04-05 21:17:19,921 - b.py - INFO -    == step: [300/391], train loss: 0.587 | train acc: 98.276% | lr: 0.013018
+2020-04-05 21:17:22,045 - b.py - INFO -    == step: [391/391], train loss: 0.587 | train acc: 98.232% | lr: 0.013018
+2020-04-05 21:17:22,045 - b.py - INFO -    == cost time: 9.5304s
+2020-04-05 21:17:22,046 - b.py - INFO -  === Validate ===
+2020-04-05 21:17:23,325 - b.py - INFO -    == test loss: 0.917 | test acc: 86.550%
+2020-04-05 21:17:24,613 - b.py - INFO -  === Epoch: [155/200] === 
+2020-04-05 21:17:27,640 - b.py - INFO -    == step: [100/391], train loss: 0.585 | train acc: 98.250% | lr: 0.012494
+2020-04-05 21:17:29,907 - b.py - INFO -    == step: [200/391], train loss: 0.584 | train acc: 98.309% | lr: 0.012494
+2020-04-05 21:17:32,164 - b.py - INFO -    == step: [300/391], train loss: 0.585 | train acc: 98.312% | lr: 0.012494
+2020-04-05 21:17:34,307 - b.py - INFO -    == step: [391/391], train loss: 0.586 | train acc: 98.252% | lr: 0.012494
+2020-04-05 21:17:34,307 - b.py - INFO -    == cost time: 9.6950s
+2020-04-05 21:17:34,308 - b.py - INFO -  === Epoch: [156/200] === 
+2020-04-05 21:17:37,242 - b.py - INFO -    == step: [100/391], train loss: 0.577 | train acc: 98.789% | lr: 0.011980
+2020-04-05 21:17:39,454 - b.py - INFO -    == step: [200/391], train loss: 0.583 | train acc: 98.492% | lr: 0.011980
+2020-04-05 21:17:41,652 - b.py - INFO -    == step: [300/391], train loss: 0.583 | train acc: 98.414% | lr: 0.011980
+2020-04-05 21:17:43,800 - b.py - INFO -    == step: [391/391], train loss: 0.584 | train acc: 98.356% | lr: 0.011980
+2020-04-05 21:17:43,800 - b.py - INFO -    == cost time: 9.4928s
+2020-04-05 21:17:43,801 - b.py - INFO -  === Validate ===
+2020-04-05 21:17:45,035 - b.py - INFO -    == test loss: 0.926 | test acc: 86.300%
+2020-04-05 21:17:45,677 - b.py - INFO -  === Epoch: [157/200] === 
+2020-04-05 21:17:48,595 - b.py - INFO -    == step: [100/391], train loss: 0.580 | train acc: 98.555% | lr: 0.011474
+2020-04-05 21:17:50,796 - b.py - INFO -    == step: [200/391], train loss: 0.579 | train acc: 98.586% | lr: 0.011474
+2020-04-05 21:17:53,003 - b.py - INFO -    == step: [300/391], train loss: 0.580 | train acc: 98.526% | lr: 0.011474
+2020-04-05 21:17:55,135 - b.py - INFO -    == step: [391/391], train loss: 0.582 | train acc: 98.460% | lr: 0.011474
+2020-04-05 21:17:55,135 - b.py - INFO -    == cost time: 9.4589s
+2020-04-05 21:17:55,136 - b.py - INFO -  === Epoch: [158/200] === 
+2020-04-05 21:17:58,067 - b.py - INFO -    == step: [100/391], train loss: 0.581 | train acc: 98.500% | lr: 0.010978
+2020-04-05 21:18:00,318 - b.py - INFO -    == step: [200/391], train loss: 0.581 | train acc: 98.523% | lr: 0.010978
+2020-04-05 21:18:02,542 - b.py - INFO -    == step: [300/391], train loss: 0.582 | train acc: 98.474% | lr: 0.010978
+2020-04-05 21:18:04,655 - b.py - INFO -    == step: [391/391], train loss: 0.582 | train acc: 98.480% | lr: 0.010978
+2020-04-05 21:18:04,655 - b.py - INFO -    == cost time: 9.5197s
+2020-04-05 21:18:04,656 - b.py - INFO -  === Validate ===
+2020-04-05 21:18:05,919 - b.py - INFO -    == test loss: 0.925 | test acc: 86.300%
+2020-04-05 21:18:06,557 - b.py - INFO -  === Epoch: [159/200] === 
+2020-04-05 21:18:09,399 - b.py - INFO -    == step: [100/391], train loss: 0.585 | train acc: 98.352% | lr: 0.010492
+2020-04-05 21:18:11,613 - b.py - INFO -    == step: [200/391], train loss: 0.582 | train acc: 98.465% | lr: 0.010492
+2020-04-05 21:18:13,827 - b.py - INFO -    == step: [300/391], train loss: 0.580 | train acc: 98.505% | lr: 0.010492
+2020-04-05 21:18:15,958 - b.py - INFO -    == step: [391/391], train loss: 0.580 | train acc: 98.538% | lr: 0.010492
+2020-04-05 21:18:15,959 - b.py - INFO -    == cost time: 9.4022s
+2020-04-05 21:18:15,959 - b.py - INFO -  === Epoch: [160/200] === 
+2020-04-05 21:18:18,902 - b.py - INFO -    == step: [100/391], train loss: 0.576 | train acc: 98.695% | lr: 0.010016
+2020-04-05 21:18:21,121 - b.py - INFO -    == step: [200/391], train loss: 0.576 | train acc: 98.727% | lr: 0.010016
+2020-04-05 21:18:23,305 - b.py - INFO -    == step: [300/391], train loss: 0.576 | train acc: 98.745% | lr: 0.010016
+2020-04-05 21:18:25,414 - b.py - INFO -    == step: [391/391], train loss: 0.576 | train acc: 98.726% | lr: 0.010016
+2020-04-05 21:18:25,415 - b.py - INFO -    == cost time: 9.4556s
+2020-04-05 21:18:25,415 - b.py - INFO -  === Validate ===
+2020-04-05 21:18:26,662 - b.py - INFO -    == test loss: 0.924 | test acc: 86.520%
+2020-04-05 21:18:27,306 - b.py - INFO -  === Epoch: [161/200] === 
+2020-04-05 21:18:30,229 - b.py - INFO -    == step: [100/391], train loss: 0.576 | train acc: 98.695% | lr: 0.009549
+2020-04-05 21:18:32,443 - b.py - INFO -    == step: [200/391], train loss: 0.576 | train acc: 98.711% | lr: 0.009549
+2020-04-05 21:18:34,663 - b.py - INFO -    == step: [300/391], train loss: 0.576 | train acc: 98.701% | lr: 0.009549
+2020-04-05 21:18:36,778 - b.py - INFO -    == step: [391/391], train loss: 0.576 | train acc: 98.708% | lr: 0.009549
+2020-04-05 21:18:36,778 - b.py - INFO -    == cost time: 9.4730s
+2020-04-05 21:18:36,779 - b.py - INFO -  === Epoch: [162/200] === 
+2020-04-05 21:18:39,678 - b.py - INFO -    == step: [100/391], train loss: 0.576 | train acc: 98.789% | lr: 0.009093
+2020-04-05 21:18:41,878 - b.py - INFO -    == step: [200/391], train loss: 0.574 | train acc: 98.844% | lr: 0.009093
+2020-04-05 21:18:44,070 - b.py - INFO -    == step: [300/391], train loss: 0.574 | train acc: 98.831% | lr: 0.009093
+2020-04-05 21:18:46,182 - b.py - INFO -    == step: [391/391], train loss: 0.574 | train acc: 98.868% | lr: 0.009093
+2020-04-05 21:18:46,182 - b.py - INFO -    == cost time: 9.4039s
+2020-04-05 21:18:46,183 - b.py - INFO -  === Validate ===
+2020-04-05 21:18:47,433 - b.py - INFO -    == test loss: 0.922 | test acc: 86.340%
+2020-04-05 21:18:48,052 - b.py - INFO -  === Epoch: [163/200] === 
+2020-04-05 21:18:51,031 - b.py - INFO -    == step: [100/391], train loss: 0.571 | train acc: 98.930% | lr: 0.008646
+2020-04-05 21:18:53,195 - b.py - INFO -    == step: [200/391], train loss: 0.571 | train acc: 98.941% | lr: 0.008646
+2020-04-05 21:18:55,349 - b.py - INFO -    == step: [300/391], train loss: 0.571 | train acc: 98.919% | lr: 0.008646
+2020-04-05 21:18:57,466 - b.py - INFO -    == step: [391/391], train loss: 0.572 | train acc: 98.918% | lr: 0.008646
+2020-04-05 21:18:57,466 - b.py - INFO -    == cost time: 9.4142s
+2020-04-05 21:18:57,466 - b.py - INFO -  === Epoch: [164/200] === 
+2020-04-05 21:19:00,410 - b.py - INFO -    == step: [100/391], train loss: 0.569 | train acc: 99.039% | lr: 0.008210
+2020-04-05 21:19:02,617 - b.py - INFO -    == step: [200/391], train loss: 0.569 | train acc: 99.027% | lr: 0.008210
+2020-04-05 21:19:04,793 - b.py - INFO -    == step: [300/391], train loss: 0.570 | train acc: 98.997% | lr: 0.008210
+2020-04-05 21:19:06,922 - b.py - INFO -    == step: [391/391], train loss: 0.570 | train acc: 99.000% | lr: 0.008210
+2020-04-05 21:19:06,923 - b.py - INFO -    == cost time: 9.4567s
+2020-04-05 21:19:06,923 - b.py - INFO -  === Validate ===
+2020-04-05 21:19:08,133 - b.py - INFO -    == test loss: 0.927 | test acc: 86.530%
+2020-04-05 21:19:08,753 - b.py - INFO -  === Epoch: [165/200] === 
+2020-04-05 21:19:11,732 - b.py - INFO -    == step: [100/391], train loss: 0.571 | train acc: 98.961% | lr: 0.007784
+2020-04-05 21:19:13,938 - b.py - INFO -    == step: [200/391], train loss: 0.570 | train acc: 98.949% | lr: 0.007784
+2020-04-05 21:19:16,163 - b.py - INFO -    == step: [300/391], train loss: 0.570 | train acc: 98.956% | lr: 0.007784
+2020-04-05 21:19:18,319 - b.py - INFO -    == step: [391/391], train loss: 0.570 | train acc: 98.962% | lr: 0.007784
+2020-04-05 21:19:18,320 - b.py - INFO -    == cost time: 9.5674s
+2020-04-05 21:19:18,320 - b.py - INFO -  === Epoch: [166/200] === 
+2020-04-05 21:19:21,251 - b.py - INFO -    == step: [100/391], train loss: 0.566 | train acc: 99.227% | lr: 0.007368
+2020-04-05 21:19:23,463 - b.py - INFO -    == step: [200/391], train loss: 0.567 | train acc: 99.113% | lr: 0.007368
+2020-04-05 21:19:25,694 - b.py - INFO -    == step: [300/391], train loss: 0.568 | train acc: 99.057% | lr: 0.007368
+2020-04-05 21:19:27,806 - b.py - INFO -    == step: [391/391], train loss: 0.568 | train acc: 99.060% | lr: 0.007368
+2020-04-05 21:19:27,807 - b.py - INFO -    == cost time: 9.4869s
+2020-04-05 21:19:27,807 - b.py - INFO -  === Validate ===
+2020-04-05 21:19:28,998 - b.py - INFO -    == test loss: 0.928 | test acc: 86.460%
+2020-04-05 21:19:29,635 - b.py - INFO -  === Epoch: [167/200] === 
+2020-04-05 21:19:32,660 - b.py - INFO -    == step: [100/391], train loss: 0.567 | train acc: 99.188% | lr: 0.006963
+2020-04-05 21:19:34,967 - b.py - INFO -    == step: [200/391], train loss: 0.567 | train acc: 99.133% | lr: 0.006963
+2020-04-05 21:19:37,248 - b.py - INFO -    == step: [300/391], train loss: 0.566 | train acc: 99.156% | lr: 0.006963
+2020-04-05 21:19:39,340 - b.py - INFO -    == step: [391/391], train loss: 0.566 | train acc: 99.174% | lr: 0.006963
+2020-04-05 21:19:39,340 - b.py - INFO -    == cost time: 9.7053s
+2020-04-05 21:19:39,341 - b.py - INFO -  === Epoch: [168/200] === 
+2020-04-05 21:19:42,220 - b.py - INFO -    == step: [100/391], train loss: 0.568 | train acc: 99.133% | lr: 0.006568
+2020-04-05 21:19:44,461 - b.py - INFO -    == step: [200/391], train loss: 0.567 | train acc: 99.172% | lr: 0.006568
+2020-04-05 21:19:46,671 - b.py - INFO -    == step: [300/391], train loss: 0.567 | train acc: 99.174% | lr: 0.006568
+2020-04-05 21:19:48,805 - b.py - INFO -    == step: [391/391], train loss: 0.567 | train acc: 99.174% | lr: 0.006568
+2020-04-05 21:19:48,805 - b.py - INFO -    == cost time: 9.4648s
+2020-04-05 21:19:48,806 - b.py - INFO -  === Validate ===
+2020-04-05 21:19:50,041 - b.py - INFO -    == test loss: 0.925 | test acc: 86.890%
+2020-04-05 21:19:51,305 - b.py - INFO -  === Epoch: [169/200] === 
+2020-04-05 21:19:54,243 - b.py - INFO -    == step: [100/391], train loss: 0.565 | train acc: 99.227% | lr: 0.006185
+2020-04-05 21:19:56,438 - b.py - INFO -    == step: [200/391], train loss: 0.567 | train acc: 99.117% | lr: 0.006185
+2020-04-05 21:19:58,600 - b.py - INFO -    == step: [300/391], train loss: 0.567 | train acc: 99.115% | lr: 0.006185
+2020-04-05 21:20:00,673 - b.py - INFO -    == step: [391/391], train loss: 0.566 | train acc: 99.132% | lr: 0.006185
+2020-04-05 21:20:00,673 - b.py - INFO -    == cost time: 9.3688s
+2020-04-05 21:20:00,673 - b.py - INFO -  === Epoch: [170/200] === 
+2020-04-05 21:20:03,561 - b.py - INFO -    == step: [100/391], train loss: 0.563 | train acc: 99.297% | lr: 0.005812
+2020-04-05 21:20:05,755 - b.py - INFO -    == step: [200/391], train loss: 0.564 | train acc: 99.195% | lr: 0.005812
+2020-04-05 21:20:07,980 - b.py - INFO -    == step: [300/391], train loss: 0.564 | train acc: 99.193% | lr: 0.005812
+2020-04-05 21:20:10,085 - b.py - INFO -    == step: [391/391], train loss: 0.565 | train acc: 99.180% | lr: 0.005812
+2020-04-05 21:20:10,085 - b.py - INFO -    == cost time: 9.4118s
+2020-04-05 21:20:10,086 - b.py - INFO -  === Validate ===
+2020-04-05 21:20:11,318 - b.py - INFO -    == test loss: 0.919 | test acc: 86.880%
+2020-04-05 21:20:11,962 - b.py - INFO -  === Epoch: [171/200] === 
+2020-04-05 21:20:14,949 - b.py - INFO -    == step: [100/391], train loss: 0.564 | train acc: 99.266% | lr: 0.005450
+2020-04-05 21:20:17,130 - b.py - INFO -    == step: [200/391], train loss: 0.562 | train acc: 99.320% | lr: 0.005450
+2020-04-05 21:20:19,354 - b.py - INFO -    == step: [300/391], train loss: 0.562 | train acc: 99.349% | lr: 0.005450
+2020-04-05 21:20:21,481 - b.py - INFO -    == step: [391/391], train loss: 0.563 | train acc: 99.314% | lr: 0.005450
+2020-04-05 21:20:21,481 - b.py - INFO -    == cost time: 9.5204s
+2020-04-05 21:20:21,482 - b.py - INFO -  === Epoch: [172/200] === 
+2020-04-05 21:20:24,503 - b.py - INFO -    == step: [100/391], train loss: 0.564 | train acc: 99.266% | lr: 0.005099
+2020-04-05 21:20:26,692 - b.py - INFO -    == step: [200/391], train loss: 0.563 | train acc: 99.285% | lr: 0.005099
+2020-04-05 21:20:28,895 - b.py - INFO -    == step: [300/391], train loss: 0.563 | train acc: 99.297% | lr: 0.005099
+2020-04-05 21:20:30,995 - b.py - INFO -    == step: [391/391], train loss: 0.563 | train acc: 99.290% | lr: 0.005099
+2020-04-05 21:20:30,995 - b.py - INFO -    == cost time: 9.5137s
+2020-04-05 21:20:30,996 - b.py - INFO -  === Validate ===
+2020-04-05 21:20:32,167 - b.py - INFO -    == test loss: 0.926 | test acc: 86.700%
+2020-04-05 21:20:32,786 - b.py - INFO -  === Epoch: [173/200] === 
+2020-04-05 21:20:35,708 - b.py - INFO -    == step: [100/391], train loss: 0.563 | train acc: 99.297% | lr: 0.004759
+2020-04-05 21:20:37,909 - b.py - INFO -    == step: [200/391], train loss: 0.563 | train acc: 99.281% | lr: 0.004759
+2020-04-05 21:20:40,091 - b.py - INFO -    == step: [300/391], train loss: 0.563 | train acc: 99.263% | lr: 0.004759
+2020-04-05 21:20:42,208 - b.py - INFO -    == step: [391/391], train loss: 0.563 | train acc: 99.296% | lr: 0.004759
+2020-04-05 21:20:42,208 - b.py - INFO -    == cost time: 9.4229s
+2020-04-05 21:20:42,209 - b.py - INFO -  === Epoch: [174/200] === 
+2020-04-05 21:20:45,204 - b.py - INFO -    == step: [100/391], train loss: 0.561 | train acc: 99.414% | lr: 0.004430
+2020-04-05 21:20:47,438 - b.py - INFO -    == step: [200/391], train loss: 0.562 | train acc: 99.367% | lr: 0.004430
+2020-04-05 21:20:49,644 - b.py - INFO -    == step: [300/391], train loss: 0.561 | train acc: 99.388% | lr: 0.004430
+2020-04-05 21:20:51,720 - b.py - INFO -    == step: [391/391], train loss: 0.561 | train acc: 99.372% | lr: 0.004430
+2020-04-05 21:20:51,721 - b.py - INFO -    == cost time: 9.5120s
+2020-04-05 21:20:51,721 - b.py - INFO -  === Validate ===
+2020-04-05 21:20:52,929 - b.py - INFO -    == test loss: 0.919 | test acc: 86.860%
+2020-04-05 21:20:53,562 - b.py - INFO -  === Epoch: [175/200] === 
+2020-04-05 21:20:56,486 - b.py - INFO -    == step: [100/391], train loss: 0.560 | train acc: 99.453% | lr: 0.004112
+2020-04-05 21:20:58,688 - b.py - INFO -    == step: [200/391], train loss: 0.560 | train acc: 99.426% | lr: 0.004112
+2020-04-05 21:21:00,911 - b.py - INFO -    == step: [300/391], train loss: 0.560 | train acc: 99.411% | lr: 0.004112
+2020-04-05 21:21:03,034 - b.py - INFO -    == step: [391/391], train loss: 0.560 | train acc: 99.398% | lr: 0.004112
+2020-04-05 21:21:03,034 - b.py - INFO -    == cost time: 9.4728s
+2020-04-05 21:21:03,035 - b.py - INFO -  === Epoch: [176/200] === 
+2020-04-05 21:21:05,992 - b.py - INFO -    == step: [100/391], train loss: 0.559 | train acc: 99.477% | lr: 0.003806
+2020-04-05 21:21:08,187 - b.py - INFO -    == step: [200/391], train loss: 0.559 | train acc: 99.488% | lr: 0.003806
+2020-04-05 21:21:10,369 - b.py - INFO -    == step: [300/391], train loss: 0.558 | train acc: 99.513% | lr: 0.003806
+2020-04-05 21:21:12,511 - b.py - INFO -    == step: [391/391], train loss: 0.558 | train acc: 99.516% | lr: 0.003806
+2020-04-05 21:21:12,511 - b.py - INFO -    == cost time: 9.4763s
+2020-04-05 21:21:12,512 - b.py - INFO -  === Validate ===
+2020-04-05 21:21:13,761 - b.py - INFO -    == test loss: 0.923 | test acc: 86.670%
+2020-04-05 21:21:14,397 - b.py - INFO -  === Epoch: [177/200] === 
+2020-04-05 21:21:17,336 - b.py - INFO -    == step: [100/391], train loss: 0.558 | train acc: 99.500% | lr: 0.003511
+2020-04-05 21:21:19,554 - b.py - INFO -    == step: [200/391], train loss: 0.559 | train acc: 99.438% | lr: 0.003511
+2020-04-05 21:21:21,761 - b.py - INFO -    == step: [300/391], train loss: 0.559 | train acc: 99.443% | lr: 0.003511
+2020-04-05 21:21:23,869 - b.py - INFO -    == step: [391/391], train loss: 0.559 | train acc: 99.446% | lr: 0.003511
+2020-04-05 21:21:23,869 - b.py - INFO -    == cost time: 9.4725s
+2020-04-05 21:21:23,870 - b.py - INFO -  === Epoch: [178/200] === 
+2020-04-05 21:21:26,839 - b.py - INFO -    == step: [100/391], train loss: 0.557 | train acc: 99.562% | lr: 0.003228
+2020-04-05 21:21:29,044 - b.py - INFO -    == step: [200/391], train loss: 0.557 | train acc: 99.578% | lr: 0.003228
+2020-04-05 21:21:31,281 - b.py - INFO -    == step: [300/391], train loss: 0.557 | train acc: 99.557% | lr: 0.003228
+2020-04-05 21:21:33,471 - b.py - INFO -    == step: [391/391], train loss: 0.558 | train acc: 99.536% | lr: 0.003228
+2020-04-05 21:21:33,472 - b.py - INFO -    == cost time: 9.6020s
+2020-04-05 21:21:33,472 - b.py - INFO -  === Validate ===
+2020-04-05 21:21:34,741 - b.py - INFO -    == test loss: 0.929 | test acc: 87.020%
+2020-04-05 21:21:36,458 - b.py - INFO -  === Epoch: [179/200] === 
+2020-04-05 21:21:39,430 - b.py - INFO -    == step: [100/391], train loss: 0.560 | train acc: 99.336% | lr: 0.002956
+2020-04-05 21:21:41,630 - b.py - INFO -    == step: [200/391], train loss: 0.559 | train acc: 99.438% | lr: 0.002956
+2020-04-05 21:21:43,877 - b.py - INFO -    == step: [300/391], train loss: 0.559 | train acc: 99.461% | lr: 0.002956
+2020-04-05 21:21:46,089 - b.py - INFO -    == step: [391/391], train loss: 0.559 | train acc: 99.464% | lr: 0.002956
+2020-04-05 21:21:46,090 - b.py - INFO -    == cost time: 9.6332s
+2020-04-05 21:21:46,091 - b.py - INFO -  === Epoch: [180/200] === 
+2020-04-05 21:21:49,005 - b.py - INFO -    == step: [100/391], train loss: 0.558 | train acc: 99.516% | lr: 0.002696
+2020-04-05 21:21:51,214 - b.py - INFO -    == step: [200/391], train loss: 0.558 | train acc: 99.512% | lr: 0.002696
+2020-04-05 21:21:53,419 - b.py - INFO -    == step: [300/391], train loss: 0.558 | train acc: 99.547% | lr: 0.002696
+2020-04-05 21:21:55,580 - b.py - INFO -    == step: [391/391], train loss: 0.557 | train acc: 99.552% | lr: 0.002696
+2020-04-05 21:21:55,581 - b.py - INFO -    == cost time: 9.4906s
+2020-04-05 21:21:55,582 - b.py - INFO -  === Validate ===
+2020-04-05 21:21:56,841 - b.py - INFO -    == test loss: 0.932 | test acc: 86.760%
+2020-04-05 21:21:57,453 - b.py - INFO -  === Epoch: [181/200] === 
+2020-04-05 21:22:00,418 - b.py - INFO -    == step: [100/391], train loss: 0.558 | train acc: 99.539% | lr: 0.002447
+2020-04-05 21:22:02,619 - b.py - INFO -    == step: [200/391], train loss: 0.557 | train acc: 99.586% | lr: 0.002447
+2020-04-05 21:22:04,917 - b.py - INFO -    == step: [300/391], train loss: 0.557 | train acc: 99.586% | lr: 0.002447
+2020-04-05 21:22:07,055 - b.py - INFO -    == step: [391/391], train loss: 0.557 | train acc: 99.574% | lr: 0.002447
+2020-04-05 21:22:07,055 - b.py - INFO -    == cost time: 9.6027s
+2020-04-05 21:22:07,056 - b.py - INFO -  === Epoch: [182/200] === 
+2020-04-05 21:22:09,969 - b.py - INFO -    == step: [100/391], train loss: 0.557 | train acc: 99.500% | lr: 0.002210
+2020-04-05 21:22:12,199 - b.py - INFO -    == step: [200/391], train loss: 0.557 | train acc: 99.562% | lr: 0.002210
+2020-04-05 21:22:14,423 - b.py - INFO -    == step: [300/391], train loss: 0.557 | train acc: 99.568% | lr: 0.002210
+2020-04-05 21:22:16,567 - b.py - INFO -    == step: [391/391], train loss: 0.557 | train acc: 99.578% | lr: 0.002210
+2020-04-05 21:22:16,568 - b.py - INFO -    == cost time: 9.5123s
+2020-04-05 21:22:16,569 - b.py - INFO -  === Validate ===
+2020-04-05 21:22:17,818 - b.py - INFO -    == test loss: 0.927 | test acc: 86.940%
+2020-04-05 21:22:18,456 - b.py - INFO -  === Epoch: [183/200] === 
+2020-04-05 21:22:21,519 - b.py - INFO -    == step: [100/391], train loss: 0.555 | train acc: 99.641% | lr: 0.001985
+2020-04-05 21:22:23,730 - b.py - INFO -    == step: [200/391], train loss: 0.555 | train acc: 99.648% | lr: 0.001985
+2020-04-05 21:22:25,940 - b.py - INFO -    == step: [300/391], train loss: 0.555 | train acc: 99.643% | lr: 0.001985
+2020-04-05 21:22:28,103 - b.py - INFO -    == step: [391/391], train loss: 0.555 | train acc: 99.638% | lr: 0.001985
+2020-04-05 21:22:28,103 - b.py - INFO -    == cost time: 9.6474s
+2020-04-05 21:22:28,104 - b.py - INFO -  === Epoch: [184/200] === 
+2020-04-05 21:22:31,034 - b.py - INFO -    == step: [100/391], train loss: 0.556 | train acc: 99.641% | lr: 0.001772
+2020-04-05 21:22:33,327 - b.py - INFO -    == step: [200/391], train loss: 0.555 | train acc: 99.637% | lr: 0.001772
+2020-04-05 21:22:35,591 - b.py - INFO -    == step: [300/391], train loss: 0.555 | train acc: 99.656% | lr: 0.001772
+2020-04-05 21:22:37,750 - b.py - INFO -    == step: [391/391], train loss: 0.555 | train acc: 99.636% | lr: 0.001772
+2020-04-05 21:22:37,750 - b.py - INFO -    == cost time: 9.6468s
+2020-04-05 21:22:37,751 - b.py - INFO -  === Validate ===
+2020-04-05 21:22:39,006 - b.py - INFO -    == test loss: 0.924 | test acc: 87.010%
+2020-04-05 21:22:39,645 - b.py - INFO -  === Epoch: [185/200] === 
+2020-04-05 21:22:42,637 - b.py - INFO -    == step: [100/391], train loss: 0.555 | train acc: 99.633% | lr: 0.001571
+2020-04-05 21:22:44,866 - b.py - INFO -    == step: [200/391], train loss: 0.556 | train acc: 99.578% | lr: 0.001571
+2020-04-05 21:22:47,065 - b.py - INFO -    == step: [300/391], train loss: 0.556 | train acc: 99.604% | lr: 0.001571
+2020-04-05 21:22:49,212 - b.py - INFO -    == step: [391/391], train loss: 0.555 | train acc: 99.618% | lr: 0.001571
+2020-04-05 21:22:49,213 - b.py - INFO -    == cost time: 9.5682s
+2020-04-05 21:22:49,213 - b.py - INFO -  === Epoch: [186/200] === 
+2020-04-05 21:22:52,176 - b.py - INFO -    == step: [100/391], train loss: 0.555 | train acc: 99.648% | lr: 0.001382
+2020-04-05 21:22:54,434 - b.py - INFO -    == step: [200/391], train loss: 0.555 | train acc: 99.656% | lr: 0.001382
+2020-04-05 21:22:56,658 - b.py - INFO -    == step: [300/391], train loss: 0.555 | train acc: 99.664% | lr: 0.001382
+2020-04-05 21:22:58,764 - b.py - INFO -    == step: [391/391], train loss: 0.555 | train acc: 99.672% | lr: 0.001382
+2020-04-05 21:22:58,764 - b.py - INFO -    == cost time: 9.5515s
+2020-04-05 21:22:58,765 - b.py - INFO -  === Validate ===
+2020-04-05 21:23:00,013 - b.py - INFO -    == test loss: 0.927 | test acc: 87.000%
+2020-04-05 21:23:00,647 - b.py - INFO -  === Epoch: [187/200] === 
+2020-04-05 21:23:03,639 - b.py - INFO -    == step: [100/391], train loss: 0.555 | train acc: 99.664% | lr: 0.001204
+2020-04-05 21:23:05,879 - b.py - INFO -    == step: [200/391], train loss: 0.555 | train acc: 99.680% | lr: 0.001204
+2020-04-05 21:23:08,065 - b.py - INFO -    == step: [300/391], train loss: 0.555 | train acc: 99.648% | lr: 0.001204
+2020-04-05 21:23:10,172 - b.py - INFO -    == step: [391/391], train loss: 0.555 | train acc: 99.634% | lr: 0.001204
+2020-04-05 21:23:10,172 - b.py - INFO -    == cost time: 9.5257s
+2020-04-05 21:23:10,173 - b.py - INFO -  === Epoch: [188/200] === 
+2020-04-05 21:23:13,163 - b.py - INFO -    == step: [100/391], train loss: 0.554 | train acc: 99.703% | lr: 0.001039
+2020-04-05 21:23:15,388 - b.py - INFO -    == step: [200/391], train loss: 0.555 | train acc: 99.641% | lr: 0.001039
+2020-04-05 21:23:17,612 - b.py - INFO -    == step: [300/391], train loss: 0.555 | train acc: 99.659% | lr: 0.001039
+2020-04-05 21:23:19,799 - b.py - INFO -    == step: [391/391], train loss: 0.555 | train acc: 99.626% | lr: 0.001039
+2020-04-05 21:23:19,799 - b.py - INFO -    == cost time: 9.6268s
+2020-04-05 21:23:19,800 - b.py - INFO -  === Validate ===
+2020-04-05 21:23:21,063 - b.py - INFO -    == test loss: 0.923 | test acc: 87.270%
+2020-04-05 21:23:22,343 - b.py - INFO -  === Epoch: [189/200] === 
+2020-04-05 21:23:25,275 - b.py - INFO -    == step: [100/391], train loss: 0.555 | train acc: 99.648% | lr: 0.000886
+2020-04-05 21:23:27,544 - b.py - INFO -    == step: [200/391], train loss: 0.554 | train acc: 99.688% | lr: 0.000886
+2020-04-05 21:23:29,793 - b.py - INFO -    == step: [300/391], train loss: 0.554 | train acc: 99.695% | lr: 0.000886
+2020-04-05 21:23:31,922 - b.py - INFO -    == step: [391/391], train loss: 0.554 | train acc: 99.712% | lr: 0.000886
+2020-04-05 21:23:31,923 - b.py - INFO -    == cost time: 9.5805s
+2020-04-05 21:23:31,924 - b.py - INFO -  === Epoch: [190/200] === 
+2020-04-05 21:23:34,868 - b.py - INFO -    == step: [100/391], train loss: 0.555 | train acc: 99.625% | lr: 0.000745
+2020-04-05 21:23:37,091 - b.py - INFO -    == step: [200/391], train loss: 0.555 | train acc: 99.637% | lr: 0.000745
+2020-04-05 21:23:39,281 - b.py - INFO -    == step: [300/391], train loss: 0.555 | train acc: 99.659% | lr: 0.000745
+2020-04-05 21:23:41,441 - b.py - INFO -    == step: [391/391], train loss: 0.555 | train acc: 99.656% | lr: 0.000745
+2020-04-05 21:23:41,441 - b.py - INFO -    == cost time: 9.5178s
+2020-04-05 21:23:41,442 - b.py - INFO -  === Validate ===
+2020-04-05 21:23:42,716 - b.py - INFO -    == test loss: 0.926 | test acc: 87.150%
+2020-04-05 21:23:43,357 - b.py - INFO -  === Epoch: [191/200] === 
+2020-04-05 21:23:46,452 - b.py - INFO -    == step: [100/391], train loss: 0.554 | train acc: 99.727% | lr: 0.000616
+2020-04-05 21:23:48,702 - b.py - INFO -    == step: [200/391], train loss: 0.554 | train acc: 99.711% | lr: 0.000616
+2020-04-05 21:23:50,952 - b.py - INFO -    == step: [300/391], train loss: 0.554 | train acc: 99.698% | lr: 0.000616
+2020-04-05 21:23:53,097 - b.py - INFO -    == step: [391/391], train loss: 0.554 | train acc: 99.696% | lr: 0.000616
+2020-04-05 21:23:53,097 - b.py - INFO -    == cost time: 9.7410s
+2020-04-05 21:23:53,098 - b.py - INFO -  === Epoch: [192/200] === 
+2020-04-05 21:23:56,093 - b.py - INFO -    == step: [100/391], train loss: 0.554 | train acc: 99.648% | lr: 0.000499
+2020-04-05 21:23:58,319 - b.py - INFO -    == step: [200/391], train loss: 0.553 | train acc: 99.707% | lr: 0.000499
+2020-04-05 21:24:00,555 - b.py - INFO -    == step: [300/391], train loss: 0.554 | train acc: 99.682% | lr: 0.000499
+2020-04-05 21:24:02,688 - b.py - INFO -    == step: [391/391], train loss: 0.554 | train acc: 99.682% | lr: 0.000499
+2020-04-05 21:24:02,689 - b.py - INFO -    == cost time: 9.5908s
+2020-04-05 21:24:02,689 - b.py - INFO -  === Validate ===
+2020-04-05 21:24:03,979 - b.py - INFO -    == test loss: 0.925 | test acc: 87.170%
+2020-04-05 21:24:04,626 - b.py - INFO -  === Epoch: [193/200] === 
+2020-04-05 21:24:07,620 - b.py - INFO -    == step: [100/391], train loss: 0.553 | train acc: 99.773% | lr: 0.000394
+2020-04-05 21:24:09,822 - b.py - INFO -    == step: [200/391], train loss: 0.554 | train acc: 99.734% | lr: 0.000394
+2020-04-05 21:24:12,075 - b.py - INFO -    == step: [300/391], train loss: 0.553 | train acc: 99.740% | lr: 0.000394
+2020-04-05 21:24:14,217 - b.py - INFO -    == step: [391/391], train loss: 0.553 | train acc: 99.738% | lr: 0.000394
+2020-04-05 21:24:14,217 - b.py - INFO -    == cost time: 9.5913s
+2020-04-05 21:24:14,218 - b.py - INFO -  === Epoch: [194/200] === 
+2020-04-05 21:24:17,118 - b.py - INFO -    == step: [100/391], train loss: 0.554 | train acc: 99.703% | lr: 0.000302
+2020-04-05 21:24:19,341 - b.py - INFO -    == step: [200/391], train loss: 0.554 | train acc: 99.734% | lr: 0.000302
+2020-04-05 21:24:21,562 - b.py - INFO -    == step: [300/391], train loss: 0.554 | train acc: 99.719% | lr: 0.000302
+2020-04-05 21:24:23,712 - b.py - INFO -    == step: [391/391], train loss: 0.554 | train acc: 99.716% | lr: 0.000302
+2020-04-05 21:24:23,713 - b.py - INFO -    == cost time: 9.4953s
+2020-04-05 21:24:23,713 - b.py - INFO -  === Validate ===
+2020-04-05 21:24:24,940 - b.py - INFO -    == test loss: 0.924 | test acc: 87.320%
+2020-04-05 21:24:26,203 - b.py - INFO -  === Epoch: [195/200] === 
+2020-04-05 21:24:29,099 - b.py - INFO -    == step: [100/391], train loss: 0.553 | train acc: 99.781% | lr: 0.000222
+2020-04-05 21:24:31,328 - b.py - INFO -    == step: [200/391], train loss: 0.553 | train acc: 99.742% | lr: 0.000222
+2020-04-05 21:24:33,493 - b.py - INFO -    == step: [300/391], train loss: 0.553 | train acc: 99.747% | lr: 0.000222
+2020-04-05 21:24:35,690 - b.py - INFO -    == step: [391/391], train loss: 0.553 | train acc: 99.740% | lr: 0.000222
+2020-04-05 21:24:35,690 - b.py - INFO -    == cost time: 9.4878s
+2020-04-05 21:24:35,692 - b.py - INFO -  === Epoch: [196/200] === 
+2020-04-05 21:24:38,600 - b.py - INFO -    == step: [100/391], train loss: 0.554 | train acc: 99.711% | lr: 0.000154
+2020-04-05 21:24:40,810 - b.py - INFO -    == step: [200/391], train loss: 0.553 | train acc: 99.727% | lr: 0.000154
+2020-04-05 21:24:42,976 - b.py - INFO -    == step: [300/391], train loss: 0.554 | train acc: 99.721% | lr: 0.000154
+2020-04-05 21:24:45,066 - b.py - INFO -    == step: [391/391], train loss: 0.554 | train acc: 99.716% | lr: 0.000154
+2020-04-05 21:24:45,066 - b.py - INFO -    == cost time: 9.3749s
+2020-04-05 21:24:45,067 - b.py - INFO -  === Validate ===
+2020-04-05 21:24:46,303 - b.py - INFO -    == test loss: 0.924 | test acc: 87.360%
+2020-04-05 21:24:47,658 - b.py - INFO -  === Epoch: [197/200] === 
+2020-04-05 21:24:50,884 - b.py - INFO -    == step: [100/391], train loss: 0.552 | train acc: 99.797% | lr: 0.000099
+2020-04-05 21:24:53,465 - b.py - INFO -    == step: [200/391], train loss: 0.552 | train acc: 99.762% | lr: 0.000099
+2020-04-05 21:24:55,993 - b.py - INFO -    == step: [300/391], train loss: 0.553 | train acc: 99.740% | lr: 0.000099
+2020-04-05 21:24:58,346 - b.py - INFO -    == step: [391/391], train loss: 0.553 | train acc: 99.750% | lr: 0.000099
+2020-04-05 21:24:58,346 - b.py - INFO -    == cost time: 10.6883s
+2020-04-05 21:24:58,347 - b.py - INFO -  === Epoch: [198/200] === 
+2020-04-05 21:25:01,304 - b.py - INFO -    == step: [100/391], train loss: 0.554 | train acc: 99.680% | lr: 0.000056
+2020-04-05 21:25:03,569 - b.py - INFO -    == step: [200/391], train loss: 0.554 | train acc: 99.664% | lr: 0.000056
+2020-04-05 21:25:05,793 - b.py - INFO -    == step: [300/391], train loss: 0.553 | train acc: 99.719% | lr: 0.000056
+2020-04-05 21:25:07,945 - b.py - INFO -    == step: [391/391], train loss: 0.553 | train acc: 99.750% | lr: 0.000056
+2020-04-05 21:25:07,945 - b.py - INFO -    == cost time: 9.5988s
+2020-04-05 21:25:07,946 - b.py - INFO -  === Validate ===
+2020-04-05 21:25:09,191 - b.py - INFO -    == test loss: 0.924 | test acc: 87.320%
+2020-04-05 21:25:09,807 - b.py - INFO -  === Epoch: [199/200] === 
+2020-04-05 21:25:12,757 - b.py - INFO -    == step: [100/391], train loss: 0.553 | train acc: 99.711% | lr: 0.000025
+2020-04-05 21:25:14,953 - b.py - INFO -    == step: [200/391], train loss: 0.553 | train acc: 99.750% | lr: 0.000025
+2020-04-05 21:25:17,300 - b.py - INFO -    == step: [300/391], train loss: 0.553 | train acc: 99.708% | lr: 0.000025
+2020-04-05 21:25:19,425 - b.py - INFO -    == step: [391/391], train loss: 0.553 | train acc: 99.714% | lr: 0.000025
+2020-04-05 21:25:19,426 - b.py - INFO -    == cost time: 9.6190s
+2020-04-05 21:25:19,427 - b.py - INFO -  === Epoch: [200/200] === 
+2020-04-05 21:25:22,390 - b.py - INFO -    == step: [100/391], train loss: 0.553 | train acc: 99.711% | lr: 0.000006
+2020-04-05 21:25:24,613 - b.py - INFO -    == step: [200/391], train loss: 0.553 | train acc: 99.727% | lr: 0.000006
+2020-04-05 21:25:26,812 - b.py - INFO -    == step: [300/391], train loss: 0.553 | train acc: 99.719% | lr: 0.000006
+2020-04-05 21:25:28,951 - b.py - INFO -    == step: [391/391], train loss: 0.554 | train acc: 99.712% | lr: 0.000006
+2020-04-05 21:25:28,951 - b.py - INFO -    == cost time: 9.5250s
+2020-04-05 21:25:28,952 - b.py - INFO -  === Validate ===
+2020-04-05 21:25:30,229 - b.py - INFO -    == test loss: 0.924 | test acc: 87.320%
+2020-04-05 21:25:30,867 - b.py - INFO - ======== Training Finished with 0 h, 35 m.   best_test_acc: 87.360% ========
